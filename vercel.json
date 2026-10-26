@@ -1,18 +1,20 @@
 {
   "version": 2,
   "cleanUrls": true,
+  "outputDirectory": "public",
+  "framework": null,
   "rewrites": [
     {
-      "source": "/portfolio-thumbs/:folder/:file",
-      "destination": "/cache/thumbs/:folder/:file.webp"
-    },
-    {
-      "source": "/portfolio-assets/:folder/:file",
-      "destination": "/cache/thumbs/:folder/:file.webp"
-    },
-    {
       "source": "/api/data",
-      "destination": "/api/data"
+      "destination": "/data/portfolio.json"
+    },
+    {
+      "source": "/portfolio-thumbs/:folder/:file*",
+      "destination": "/cache/thumbs/:folder/:file*.webp"
+    },
+    {
+      "source": "/portfolio-assets/:folder/:file*",
+      "destination": "/cache/thumbs/:folder/:file*.webp"
     }
   ]
 }

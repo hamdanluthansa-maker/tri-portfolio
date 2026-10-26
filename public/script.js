@@ -19,18 +19,29 @@ async function initApp() {
   setupScrollSpy();
 }
 
-// Fetch data from local backend API
+// Fetch data from local backend API or static JSON on Vercel
 async function loadPortfolioData() {
   try {
-    const res = await fetch('/api/data');
+    let res = await fetch('/api/data');
+    if (!res.ok) {
+      res = await fetch('/data/portfolio.json');
+    }
     const json = await res.json();
-    if (json.success && json.data) {
-      portfolioData = json.data;
+    portfolioData = json.data || json;
+    if (portfolioData && (portfolioData.profile || portfolioData.skills)) {
       renderAll();
     }
   } catch (err) {
-    console.error('Failed to load portfolio data:', err);
-    showToast('Gagal memuat data dari server', true);
+    console.warn('Initial load error, trying static fallback:', err);
+    try {
+      const resFallback = await fetch('/data/portfolio.json');
+      const jsonFallback = await resFallback.json();
+      portfolioData = jsonFallback.data || jsonFallback;
+      if (portfolioData) renderAll();
+    } catch (e) {
+      console.error('All data sources failed:', e);
+      showToast('Gagal memuat data portofolio', true);
+    }
   }
 }
 

@@ -1,0 +1,3907 @@
+{
+  "profile": {
+    "name": "TRI HAMDANI",
+    "role": "Graphic Designer | Vibe Coder",
+    "headline": "Creative Content Creator, Visual Designer & Vibe Coder",
+    "badge": "Vibe Coding • AI Prototyper",
+    "location": "Madiun, Jawa Timur, Indonesia",
+    "birth": "Madiun, 23 Oktober 1990",
+    "email": "hamdan.luthansa@gmail.com",
+    "phone": "+62 857-3585-1739",
+    "whatsapp": "6285735851739",
+    "instagram": "masdan.tech",
+    "avatar": "/assets/cursor_avatar.svg",
+    "avatarAlt": "",
+    "taglinePrefix": "Dua tangan, satu laptop,",
+    "taglineHighlight": "Skill Vibe Coding & Desain",
+    "taglineSuffix": "Bikin Ide Gila Jadi Nyata!",
+    "subheadline": "Menggabungkan rasa seni desain grafis 12+ tahun dengan kecepatan Vibe Coding AI untuk membangun aplikasi web modern, game interaktif, sistem video otomatis, dan konten kreatif berdampak tinggi.",
+    "aboutLong": "Halo! Saya Tri Hamdani, lahir di Madiun, 23 Oktober 1990. Lulusan Program Profesi 1 Tahun Desain Grafis & Komputer Wearnes Education Center (2009-2010). Saya mengawali karier dari dunia percetakan dan desain grafis, bertumbuh sebagai Graphic Designer profesional & content creator, hingga kini merambah dunia Vibe Coding — menciptakan aplikasi, game, dan otomasi visual dengan bantuan AI generasi mutakhir. Senang ngopi, jalan-jalan, begadang bereksplorasi teknologi baru, dan berkolaborasi dengan insan kreatif.",
+    "quote": "Saya siap memberikan dedikasi terbaik, terus belajar, dan berkembang bersama teknologi masa depan untuk mencapai hasil yang maksimal.",
+    "stats": [
+      {
+        "label": "Tahun Pengalaman Desain & Kreatif",
+        "value": "12+"
+      },
+      {
+        "label": "Koleksi Proyek Selesai",
+        "value": "50+"
+      },
+      {
+        "label": "Kecepatan Rapid Vibe Coding",
+        "value": "10x"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "id": "sk-vibe",
+      "name": "Vibe Coding & AI Prompting",
+      "category": "Tech & AI",
+      "level": "Expert (Pair Programming)",
+      "icon": "bolt",
+      "highlight": true,
+      "desc": "Membangun fullstack web app, game, dashboard, visualizer ritmik, dan automasi secepat kilat menggunakan AI pair-programming & LLM orchestration."
+    },
+    {
+      "id": "sk-design",
+      "name": "Desain Grafis & Brand Identity",
+      "category": "Design",
+      "level": "Expert (12+ Tahun)",
+      "icon": "pen",
+      "highlight": true,
+      "desc": "Branding visual, logo design, media cetak (brosur, kartu nama, banner), layout sosial media, hingga visual identity event nasional."
+    },
+    {
+      "id": "sk-video",
+      "name": "Editing Video & Kinetic Motion",
+      "category": "Creative",
+      "level": "Advanced",
+      "icon": "video",
+      "highlight": true,
+      "desc": "Video editing, motion typography, sinkronisasi audio-visual ritmik, synthesis voiceover neural, dan dynamic showreel 60fps."
+    },
+    {
+      "id": "sk-photo",
+      "name": "Editing Foto & Retouching",
+      "category": "Creative",
+      "level": "Advanced",
+      "icon": "camera",
+      "highlight": false,
+      "desc": "Koreksi warna profesional, photo retouching, manipulasi gambar digital, dan katalog produk komersial."
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-2",
+      "period": "Februari 2024 - Sekarang (Oktober 2026)",
+      "role": "Freelance Graphic Designer",
+      "company": "Freelance",
+      "badge": "Active & Current",
+      "description": "Menangani berbagai proyek desain visual, branding identitas, materi promosi kreatif, dan eksplorasi Vibe Coding untuk berbagai klien secara profesional dan independen hingga saat ini."
+    },
+    {
+      "id": "exp-3",
+      "period": "2022",
+      "role": "Desainer Grafis",
+      "company": "ASEAN PG 2022 (ASEAN Para Games)",
+      "badge": "National Sports Event",
+      "description": "Mendesain materi publikasi resmi, spanduk, backdrop, dan aneka kebutuhan visual untuk mendukung suksesnya ajang olahraga internasional ASEAN PG 2022."
+    },
+    {
+      "id": "exp-4",
+      "period": "2020 - 2021",
+      "role": "Desainer Grafis",
+      "company": "Ovoz Graphic",
+      "badge": "Creative Agency",
+      "description": "Mengerjakan berbagai desain promosi, konten digital, aset marketing kampanye, dan kebutuhan branding klien industri."
+    },
+    {
+      "id": "exp-5",
+      "period": "2016 - 2020",
+      "role": "Desainer Grafis",
+      "company": "Freelance",
+      "badge": "Independent",
+      "description": "Bekerja secara freelance menangani berbagai kebutuhan desain visual untuk puluhan klien korporasi, UMKM, maupun perseorangan."
+    },
+    {
+      "id": "exp-6",
+      "period": "2014 - 2015",
+      "role": "Desainer Grafis",
+      "company": "Ratu Platinum Batam",
+      "badge": "Visual Merchandising",
+      "description": "Mendesain konten promosi, materi cetak display toko, dan kebutuhan visual representasi perusahaan di Batam."
+    },
+    {
+      "id": "exp-7",
+      "period": "2013 - 2014",
+      "role": "Desainer Grafis",
+      "company": "Freelance",
+      "badge": "Independent",
+      "description": "Menerima aneka proyek desain lepas seperti pembuatan logo perusahaan, flyer, brosur, banner pameran, dan konten media sosial."
+    },
+    {
+      "id": "exp-8",
+      "period": "2010 - 2013",
+      "role": "Desainer Grafis",
+      "company": "Buka Percetakan",
+      "badge": "Offset & Digital Printing",
+      "description": "Membuat desain layout kebutuhan percetakan seperti brosur, kartu nama, spanduk, banner, nota, dan mempersiapkan file pra-cetak (pre-press)."
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "period": "2009 - 2010",
+      "degree": "Program Profesi 1 Tahun Desain Grafis & Komputer",
+      "institution": "Wearnes Education Center",
+      "description": "Fokus pada penguasaan software desain grafis industri, dasar komunikasi visual, tipografi, dan teknologi komputer."
+    },
+    {
+      "id": "edu-2",
+      "period": "2007 - 2009",
+      "degree": "Ilmu Sosial (IPS)",
+      "institution": "MA Darul Huda",
+      "description": "Mempelajari ilmu sosial, komunikasi antarpribadi, dinamika masyarakat, dan organisasi kemahasiswaan."
+    }
+  ],
+  "organizations": [
+    {
+      "id": "org-1",
+      "title": "Talent EJSC Madiun",
+      "period": "2024 - 2025",
+      "badge": "Kreativitas Pemuda",
+      "icon": "trophy",
+      "description": "Berpartisipasi aktif dalam kompetisi dan kegiatan kreativitas yang mendukung pengembangan diri dan kemampuan di East Java Super Corridors Madiun."
+    },
+    {
+      "id": "org-3",
+      "title": "Berorientasi Target",
+      "period": "Nilai Kerja Utama",
+      "badge": "Etos Kerja",
+      "icon": "target",
+      "description": "Memiliki kemampuan fokus pada target kerja, inisiatif tinggi dalam memecahkan masalah, dan selalu siap menghadapi tantangan baru."
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-poscloud",
+      "title": "POSCloud (VapePOS) — Multiplatform POS & Kasir System",
+      "category": "App & Web Kasir",
+      "badge": "Multiplatform Desktop & Web",
+      "tag": "KASIR & INVENTORY",
+      "tech": [
+        "React 19",
+        "Capacitor",
+        "Electron",
+        "OCR Distributor Scanner",
+        "POS Kasir",
+        "Inventory CRM"
+      ],
+      "image": "/assets/projects/poscloud_mockup.jpg",
+      "liveUrl": "#",
+      "summary": "Aplikasi kasir dan manajemen inventori modern untuk retail dan vape store, dilengkapi pemindai faktur distributor OCR, kalkulator struk kasir, dan laporan laba-rugi otomatis.",
+      "details": "Dibangun dengan arsitektur multiplatform yang dapat berjalan di Web, Desktop Windows (Electron), dan Android (Capacitor). Memiliki fitur verifikasi supervisor, sinkronisasi stok real-time, cetak nota struk, dan pelacakan riwayat transaksi pelanggan.",
+      "featured": true
+    },
+    {
+      "id": "proj-setoranngaji",
+      "title": "SetoranNgaji — Platform Manajemen Tahsin & Tahfidz Quran",
+      "category": "Education Web & PWA",
+      "badge": "Audio Recorder & Multi-Role",
+      "tag": "EDUTECH QURAN",
+      "tech": [
+        "React + TypeScript",
+        "Web Audio API",
+        "PWA",
+        "Interactive Mushaf",
+        "Multi-Role Dashboard"
+      ],
+      "image": "/assets/projects/setoranngaji_device_mockup.jpg",
+      "liveUrl": "#",
+      "summary": "Sistem pencatatan dan evaluasi setoran hafalan Quran digital dengan perekam audio bacaan, dashboard guru/wali murid, rekap tajwid, dan mushaf interaktif.",
+      "details": "Menyediakan 4 peran akses (Murid, Guru, Admin, Superadmin). Memungkinkan santri mengunggah rekaman bacaan surah, mendapatkan evaluasi tajwid langsung dari ustadz, serta memantau grafik perkembangan juz secara berkala.",
+      "featured": true
+    },
+    {
+      "id": "proj-raidboss",
+      "title": "3D Slingshot Raid Boss — WebGL & Multiplayer Arena Game",
+      "category": "3D Game & Multiplayer",
+      "badge": "Three.js & Slingshot Physics",
+      "tag": "WEBGL 3D GAME",
+      "tech": [
+        "Three.js",
+        "WebGL",
+        "Socket.io",
+        "Slingshot Physics",
+        "Dual Screen Controller"
+      ],
+      "image": "/assets/projects/raidboss_mockup.jpg",
+      "liveUrl": "#",
+      "summary": "Game 3D aksi pertarungan melawan boss monster raksasa berbasis browser dengan mekanik slingshot elastis dan dukungan smartphone sebagai controller ketapel.",
+      "details": "Menggunakan rendering Three.js 3D berkecepatan tinggi, efek partikel ledakan, kalkulasi elastisitas ketapel, dan komunikasi Socket.io real-time antara layar arena utama PC dan controller smartphone.",
+      "featured": true
+    },
+    {
+      "id": "proj-smartmap",
+      "title": "Madiun Smart Map — Peta Digital & Eksplorasi Wisata Interaktif",
+      "category": "GIS & City Directory",
+      "badge": "Leaflet & Google Gemini AI",
+      "tag": "GIS & SMART CITY",
+      "tech": [
+        "Leaflet GIS",
+        "React 19",
+        "Google Gemini AI",
+        "Tailwind CSS",
+        "Location Guide"
+      ],
+      "image": "/assets/projects/smartmap_mockup.jpg",
+      "liveUrl": "#",
+      "summary": "Platform peta cerdas interaktif Kota Madiun yang memetakan destinasi kuliner khas, wisata budaya, fasilitas publik, dan rekomendasi rute berbasis AI.",
+      "details": "Dilengkapi kurasi titik lokasi populer Madiun, filter kategori (kuliner, religi, sejarah), integrasi asisten cerdas Gemini AI untuk rekomendasi tempat, dan visual peta navigasi yang responsif.",
+      "featured": true
+    },
+    {
+      "id": "proj-karmadi",
+      "title": "Karmadi — Info Lowongan Kerja Seputar Karesidenan Madiun",
+      "category": "Platform Info Loker",
+      "badge": "Info Loker Madiun Raya",
+      "tag": "INFO LOKER MADIUN",
+      "tech": [
+        "React 19",
+        "Tesseract.js OCR",
+        "Tailwind CSS",
+        "Filter Karesidenan Madiun"
+      ],
+      "image": "/assets/projects/karmadi_mockup.jpg",
+      "liveUrl": "#",
+      "summary": "Pusat info loker terpercaya, terlengkap, dan terupdate untuk wilayah Madiun, Magetan, Ngawi, Ponorogo, dan sekitarnya.",
+      "details": "Platform pencarian lowongan kerja khusus seputar Karesidenan Madiun. Membantu para pencari kerja menemukan info lowongan terpercaya dari berbagai sektor industri dan usaha lokal.",
+      "featured": true
+    },
+    {
+      "id": "proj-rsud",
+      "title": "RSUD Dr. Soedono Madiun Official Portal",
+      "category": "Web Application & Healthcare",
+      "badge": "Responsive Web & Mobile",
+      "tag": "PORTAL LAYANAN KESEHATAN",
+      "tech": [
+        "HTML5 & CSS3 Modern",
+        "Responsive UI/UX",
+        "Healthcare Directory",
+        "Interactive Portal"
+      ],
+      "image": "/assets/projects/rsud_soedono_portal.jpg",
+      "liveUrl": "/demos/rsud/index.html",
+      "summary": "Platform portal layanan kesehatan terpadu RSUD Dr. Soedono Provinsi Jawa Timur di Kota Madiun dengan visual elegan, jadwal praktik spesialis, alur pendaftaran, dan informasi ketersediaan bed rawat inap.",
+      "details": "Menghadirkan tampilan antarmuka responsif multi-device (Laptop & Smartphone) yang bersih, profesional, dan ramah pengguna. Dilengkapi akses cepat layanan gawat darurat, jadwal dokter spesialis, portal Mobile JKN, serta panduan layanan unggulan rumah sakit.",
+      "featured": true
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-logo-1",
+      "title": "Desain Logo & Identitas Brand #0003",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/0003.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/0003.jpg"
+    },
+    {
+      "id": "gal-logo-2",
+      "title": "Desain Logo & Identitas Brand #0015",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/0015.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/0015.jpg"
+    },
+    {
+      "id": "gal-logo-3",
+      "title": "Acemaze3",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/acemaze3.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/acemaze3.PNG"
+    },
+    {
+      "id": "gal-logo-4",
+      "title": "Logo Al-Gontory Tulungagung",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/ALGONTORY.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/ALGONTORY.jpg"
+    },
+    {
+      "id": "gal-logo-5",
+      "title": "Logo Al-Gontory Tulungagung",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/ALGONTORYy.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/ALGONTORYy.jpg"
+    },
+    {
+      "id": "gal-logo-6",
+      "title": "Logo Alwi Comp IT & Services",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/ALWI%20COMP.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/ALWI%20COMP.jpg"
+    },
+    {
+      "id": "gal-logo-7",
+      "title": "Bayipedia",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/BAYIPEDIA.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/BAYIPEDIA.jpg"
+    },
+    {
+      "id": "gal-logo-8",
+      "title": "Bodybuilding",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/bodybuilding.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/bodybuilding.jpg"
+    },
+    {
+      "id": "gal-logo-9",
+      "title": "Bodybuilding2",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/bodybuilding2.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/bodybuilding2.jpg"
+    },
+    {
+      "id": "gal-logo-10",
+      "title": "Boost",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/BOOST.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/BOOST.PNG"
+    },
+    {
+      "id": "gal-logo-11",
+      "title": "Bowls Republic2",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/BOWLS%20REPUBLIC2.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/BOWLS%20REPUBLIC2.jpg"
+    },
+    {
+      "id": "gal-logo-12",
+      "title": "Bull Pirates",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/BULL%20PIRATES.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/BULL%20PIRATES.jpg"
+    },
+    {
+      "id": "gal-logo-13",
+      "title": "Circle Blue Label Botol",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/CIRCLE%20BLUE%20label%20botol.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/CIRCLE%20BLUE%20label%20botol.jpg"
+    },
+    {
+      "id": "gal-logo-14",
+      "title": "Cowboy",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/COWBOY.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/COWBOY.jpg"
+    },
+    {
+      "id": "gal-logo-15",
+      "title": "Cyclone",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/CYCLONE.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/CYCLONE.PNG"
+    },
+    {
+      "id": "gal-logo-16",
+      "title": "Diklatama4",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/diklatama4.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/diklatama4.PNG"
+    },
+    {
+      "id": "gal-logo-17",
+      "title": "Ds Team Logo1",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/DS%20TEAM%20LOGO1.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/DS%20TEAM%20LOGO1.jpg"
+    },
+    {
+      "id": "gal-logo-18",
+      "title": "Duelforce",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/DUELFORCE.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/DUELFORCE.PNG"
+    },
+    {
+      "id": "gal-logo-19",
+      "title": "Gapallan",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/GAPALLAN.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/GAPALLAN.jpg"
+    },
+    {
+      "id": "gal-logo-20",
+      "title": "Garuda",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/GARUDA.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/GARUDA.png"
+    },
+    {
+      "id": "gal-logo-21",
+      "title": "Goteku4",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/goteku4.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/goteku4.jpg"
+    },
+    {
+      "id": "gal-logo-22",
+      "title": "Green Goblin",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/GREEN%20GOBLIN.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/GREEN%20GOBLIN.png"
+    },
+    {
+      "id": "gal-logo-23",
+      "title": "Gridforce",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/gridforce.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/gridforce.PNG"
+    },
+    {
+      "id": "gal-logo-24",
+      "title": "Hades",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/HADES.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/HADES.png"
+    },
+    {
+      "id": "gal-logo-25",
+      "title": "Head Wizard",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/HEAD%20WIZARD.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/HEAD%20WIZARD.jpg"
+    },
+    {
+      "id": "gal-logo-26",
+      "title": "Hoopquest",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/hoopquest.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/hoopquest.jpg"
+    },
+    {
+      "id": "gal-logo-27",
+      "title": "Huciana",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/huciana.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/huciana.jpg"
+    },
+    {
+      "id": "gal-logo-28",
+      "title": "Indian",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/INDIAN.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/INDIAN.jpg"
+    },
+    {
+      "id": "gal-logo-29",
+      "title": "Kembes",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/KEMBES%202017%20preview.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/KEMBES%202017%20preview.jpg"
+    },
+    {
+      "id": "gal-logo-30",
+      "title": "King Martabak2",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/king%20martabak2.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/king%20martabak2.jpg"
+    },
+    {
+      "id": "gal-logo-31",
+      "title": "Konfercabipnu",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/konfercabipnu.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/konfercabipnu.jpg"
+    },
+    {
+      "id": "gal-logo-32",
+      "title": "Leobot",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/LEOBOT.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/LEOBOT.png"
+    },
+    {
+      "id": "gal-logo-33",
+      "title": "Logo Mq Baru",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/logo%20mq%20baru.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/logo%20mq%20baru.png"
+    },
+    {
+      "id": "gal-logo-34",
+      "title": "Logo Numerch Bulat",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/logo%20numerch%20bulat.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/logo%20numerch%20bulat.jpg"
+    },
+    {
+      "id": "gal-logo-35",
+      "title": "Logo Numerch",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/LOGO%20NUMERCH.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/LOGO%20NUMERCH.jpg"
+    },
+    {
+      "id": "gal-logo-36",
+      "title": "Logo Qc19",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/logo%20qc19.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/logo%20qc19.png"
+    },
+    {
+      "id": "gal-logo-37",
+      "title": "Logo Rumah Laundry",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/logo%20rumah%20laundry.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/logo%20rumah%20laundry.png"
+    },
+    {
+      "id": "gal-logo-38",
+      "title": "Logo",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/Logo.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/Logo.jpg"
+    },
+    {
+      "id": "gal-logo-39",
+      "title": "Logo Menara Solusi Indonesia",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/MENARA%20SOLUSI.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/MENARA%20SOLUSI.jpg"
+    },
+    {
+      "id": "gal-logo-40",
+      "title": "Menaraa Solusi",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/MENARAA%20SOLUSI.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/MENARAA%20SOLUSI.jpg"
+    },
+    {
+      "id": "gal-logo-41",
+      "title": "Logologo",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/newnewlogologo.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/newnewlogologo.jpg"
+    },
+    {
+      "id": "gal-logo-42",
+      "title": "Nightassasin",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/NIGHTASSASIN.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/NIGHTASSASIN.jpg"
+    },
+    {
+      "id": "gal-logo-43",
+      "title": "Ninjaboost",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/ninjaboost.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/ninjaboost.jpg"
+    },
+    {
+      "id": "gal-logo-44",
+      "title": "Nonexieris",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/nonexieris.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/nonexieris.PNG"
+    },
+    {
+      "id": "gal-logo-45",
+      "title": "Osmu",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/osmu.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/osmu.png"
+    },
+    {
+      "id": "gal-logo-46",
+      "title": "Packing Sixteen",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/packing%20sixteen.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/packing%20sixteen.jpg"
+    },
+    {
+      "id": "gal-logo-47",
+      "title": "Desain Logo & Identitas Brand ",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/pg.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/pg.PNG"
+    },
+    {
+      "id": "gal-logo-48",
+      "title": "Pirates Legends",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/PIRATES%20legends.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/PIRATES%20legends.jpg"
+    },
+    {
+      "id": "gal-logo-49",
+      "title": "Pirates",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/PIRATES.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/PIRATES.jpg"
+    },
+    {
+      "id": "gal-logo-50",
+      "title": "Pixel Gaming",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/PIXEL%20GAMING%20rev2.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/PIXEL%20GAMING%20rev2.PNG"
+    },
+    {
+      "id": "gal-logo-51",
+      "title": "Pixel",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/PIXEL.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/PIXEL.PNG"
+    },
+    {
+      "id": "gal-logo-52",
+      "title": "Poenix",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/poenix.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/poenix.PNG"
+    },
+    {
+      "id": "gal-logo-53",
+      "title": "Prospect",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/prospect%20REV1.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/prospect%20REV1.PNG"
+    },
+    {
+      "id": "gal-logo-54",
+      "title": "Rapimwil",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/rapimwil.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/rapimwil.png"
+    },
+    {
+      "id": "gal-logo-55",
+      "title": "Logo Roffman Law Office PLLC",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/ROFMan.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/ROFMan.jpg"
+    },
+    {
+      "id": "gal-logo-56",
+      "title": "S772",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/s772.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/s772.PNG"
+    },
+    {
+      "id": "gal-logo-57",
+      "title": "S773",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/s773.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/s773.PNG"
+    },
+    {
+      "id": "gal-logo-58",
+      "title": "S774",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/s774.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/s774.PNG"
+    },
+    {
+      "id": "gal-logo-59",
+      "title": "S77",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/s77rev2.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/s77rev2.PNG"
+    },
+    {
+      "id": "gal-logo-60",
+      "title": "S77",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/s77rev4.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/s77rev4.PNG"
+    },
+    {
+      "id": "gal-logo-61",
+      "title": "Logo Sabão Coeso Eco Brand",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/sabao%20coeso%20logo.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/sabao%20coeso%20logo.jpg"
+    },
+    {
+      "id": "gal-logo-62",
+      "title": "Saber",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/SABER.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/SABER.png"
+    },
+    {
+      "id": "gal-logo-63",
+      "title": "Sausage King",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/SAUSAGE%20KING.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/SAUSAGE%20KING.jpg"
+    },
+    {
+      "id": "gal-logo-64",
+      "title": "Shogun Pirates",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/SHOGUN%20PIRATES.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/SHOGUN%20PIRATES.jpg"
+    },
+    {
+      "id": "gal-logo-65",
+      "title": "Shogun Pirates2",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/SHOGUN%20PIRATES2.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/SHOGUN%20PIRATES2.png"
+    },
+    {
+      "id": "gal-logo-66",
+      "title": "Space",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/space.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/space.png"
+    },
+    {
+      "id": "gal-logo-67",
+      "title": "Tarantula",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/TARANTULA.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/TARANTULA.png"
+    },
+    {
+      "id": "gal-logo-68",
+      "title": "Thereds",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/THEREDS.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/THEREDS.jpg"
+    },
+    {
+      "id": "gal-logo-69",
+      "title": "Triobot",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/triobot.png",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/triobot.png"
+    },
+    {
+      "id": "gal-logo-70",
+      "title": "Verspadre1",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/VERSPADRE1.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/VERSPADRE1.PNG"
+    },
+    {
+      "id": "gal-logo-71",
+      "title": "Vespa",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/vespa.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/vespa.PNG"
+    },
+    {
+      "id": "gal-logo-72",
+      "title": "Wizard Full",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/wizard%20full.PNG",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/wizard%20full.PNG"
+    },
+    {
+      "id": "gal-logo-73",
+      "title": "Yeti",
+      "category": "Logo & Brand",
+      "image": "/portfolio-assets/LOGO/YETI.jpg",
+      "desc": "Desain logo dan identitas visual berkarakter kuat untuk klien bisnis, komunitas, dan korporat.",
+      "thumb": "/portfolio-thumbs/LOGO/YETI.jpg"
+    },
+    {
+      "id": "gal-packaging-74",
+      "title": "Desain Kemasan & Label Produk #1",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/1.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/1.jpg"
+    },
+    {
+      "id": "gal-packaging-75",
+      "title": "Argan Oil",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/ARGAN%20OIL%20mock%20up.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/ARGAN%20OIL%20mock%20up.jpg"
+    },
+    {
+      "id": "gal-packaging-76",
+      "title": "Bio Nusantara Bottle",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/bio%20nusantara%20bottle.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/bio%20nusantara%20bottle.jpg"
+    },
+    {
+      "id": "gal-packaging-77",
+      "title": "Desain Kemasan Bio Nusantara",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/bionus%20box2.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/bionus%20box2.jpg"
+    },
+    {
+      "id": "gal-packaging-78",
+      "title": "Desain Kemasan Bio Nusantara",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/BIONUSWA%20REV4%20GOLD.png",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/BIONUSWA%20REV4%20GOLD.png"
+    },
+    {
+      "id": "gal-packaging-79",
+      "title": "Bjs Nom Nom",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/BJS%20NOM%20NOM.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/BJS%20NOM%20NOM.jpg"
+    },
+    {
+      "id": "gal-packaging-80",
+      "title": "Box Keripik Belimbing",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/box%20keripik%20belimbing%20copy.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/box%20keripik%20belimbing%20copy.jpg"
+    },
+    {
+      "id": "gal-packaging-81",
+      "title": "Box Price Perfect",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/BOX%20PRICE%20PERFECT.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/BOX%20PRICE%20PERFECT.jpg"
+    },
+    {
+      "id": "gal-packaging-82",
+      "title": "Box Synchex",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/box%20synchex.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/box%20synchex.jpg"
+    },
+    {
+      "id": "gal-packaging-83",
+      "title": "Casetist",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/CASETIST%20mock%20up.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/CASETIST%20mock%20up.jpg"
+    },
+    {
+      "id": "gal-packaging-84",
+      "title": "Coffee Creamer",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/Coffee%20Creamer%20Mockup.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/Coffee%20Creamer%20Mockup.jpg"
+    },
+    {
+      "id": "gal-packaging-85",
+      "title": "Complete2",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/Complete2.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/Complete2.jpg"
+    },
+    {
+      "id": "gal-packaging-86",
+      "title": "Design",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/design%20rev.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/design%20rev.jpg"
+    },
+    {
+      "id": "gal-packaging-87",
+      "title": "Eco Bamboo",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/eco%20bamboo%20preview%20new.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/eco%20bamboo%20preview%20new.jpg"
+    },
+    {
+      "id": "gal-packaging-88",
+      "title": "Eco Bamboo",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/eco%20bamboo%20preview.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/eco%20bamboo%20preview.jpg"
+    },
+    {
+      "id": "gal-packaging-89",
+      "title": "Eco Bamboo3",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/eco%20bamboo3.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/eco%20bamboo3.jpg"
+    },
+    {
+      "id": "gal-packaging-90",
+      "title": "Fit Noodle Cap",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/FIT%20NOODLE%20CAP.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/FIT%20NOODLE%20CAP.jpg"
+    },
+    {
+      "id": "gal-packaging-91",
+      "title": "Fit Noodle Cup",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/fit%20noodle%20cup%20(2).jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/fit%20noodle%20cup%20(2).jpg"
+    },
+    {
+      "id": "gal-packaging-92",
+      "title": "For Portofolio",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/FOR%20PORTOFOLIO.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/FOR%20PORTOFOLIO.jpg"
+    },
+    {
+      "id": "gal-packaging-93",
+      "title": "Gostrain Cover",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/GOSTRAIN%20COVER.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/GOSTRAIN%20COVER.jpg"
+    },
+    {
+      "id": "gal-packaging-94",
+      "title": "Gunintg",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/gunintg.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/gunintg.jpg"
+    },
+    {
+      "id": "gal-packaging-95",
+      "title": "Kira Kimchi",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/kira%20kimchi%20(3).jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/kira%20kimchi%20(3).jpg"
+    },
+    {
+      "id": "gal-packaging-96",
+      "title": "Matari Honey1",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/matari%20honey1.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/matari%20honey1.jpg"
+    },
+    {
+      "id": "gal-packaging-97",
+      "title": "Matari Honey2",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/matari%20honey2.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/matari%20honey2.jpg"
+    },
+    {
+      "id": "gal-packaging-98",
+      "title": "Desain Kemasan & Label Produk #2",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/mock%20up%20(2).jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/mock%20up%20(2).jpg"
+    },
+    {
+      "id": "gal-packaging-99",
+      "title": "Desain Kemasan & Label Produk ",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/mock%20up%20copy.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/mock%20up%20copy.jpg"
+    },
+    {
+      "id": "gal-packaging-100",
+      "title": "Front",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/mock%20up%20front.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/mock%20up%20front.jpg"
+    },
+    {
+      "id": "gal-packaging-101",
+      "title": "Desain Kemasan & Label Produk ",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/Mock%20up.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/Mock%20up.jpg"
+    },
+    {
+      "id": "gal-packaging-102",
+      "title": "1 1",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/mock%20up1_1.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/mock%20up1_1.jpg"
+    },
+    {
+      "id": "gal-packaging-103",
+      "title": "Desain Kemasan & Label Produk #3",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/mock3.png",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/mock3.png"
+    },
+    {
+      "id": "gal-packaging-104",
+      "title": "Desain Kemasan & Label Produk #2",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/Mockup%20(2).jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/Mockup%20(2).jpg"
+    },
+    {
+      "id": "gal-packaging-105",
+      "title": "Desain Kemasan & Label Produk #3",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/Mockup%20(3).jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/Mockup%20(3).jpg"
+    },
+    {
+      "id": "gal-packaging-106",
+      "title": "Designfront1",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/mockup%20designfront1.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/mockup%20designfront1.jpg"
+    },
+    {
+      "id": "gal-packaging-107",
+      "title": "With Usb",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/Mockup%20With%20USB.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/Mockup%20With%20USB.jpg"
+    },
+    {
+      "id": "gal-packaging-108",
+      "title": "Yamsus",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/mockup%20yamsus.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/mockup%20yamsus.jpg"
+    },
+    {
+      "id": "gal-packaging-109",
+      "title": "Desain Kemasan & Label Produk ",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/Mockup.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/Mockup.jpg"
+    },
+    {
+      "id": "gal-packaging-110",
+      "title": "Desain Kemasan & Label Produk #1",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/mockup1.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/mockup1.jpg"
+    },
+    {
+      "id": "gal-packaging-111",
+      "title": "Desain Kemasan & Label Produk #2",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/Mockup2%20(2).jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/Mockup2%20(2).jpg"
+    },
+    {
+      "id": "gal-packaging-112",
+      "title": "Desain Kemasan & Label Produk #2",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/Mockup2.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/Mockup2.jpg"
+    },
+    {
+      "id": "gal-packaging-113",
+      "title": "Desain Kemasan & Label Produk #3",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/mockup3.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/mockup3.jpg"
+    },
+    {
+      "id": "gal-packaging-114",
+      "title": "Mr Sticky",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/mr%2Csticky.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/mr%2Csticky.jpg"
+    },
+    {
+      "id": "gal-packaging-115",
+      "title": "Nuswa Mineral Logo",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/NUSWA%20MINERAL%20logo.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/NUSWA%20MINERAL%20logo.jpg"
+    },
+    {
+      "id": "gal-packaging-116",
+      "title": "Panjang Putih",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/Panjang%20Putih.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/Panjang%20Putih.jpg"
+    },
+    {
+      "id": "gal-packaging-117",
+      "title": "Pecelque",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/pecelque%20mockup.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/pecelque%20mockup.jpg"
+    },
+    {
+      "id": "gal-packaging-118",
+      "title": "Petsum1",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/PETSUM1.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/PETSUM1.jpg"
+    },
+    {
+      "id": "gal-packaging-119",
+      "title": "Procal Woman2",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/preview%20procal%20WOMAN2.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/preview%20procal%20WOMAN2.jpg"
+    },
+    {
+      "id": "gal-packaging-120",
+      "title": "Procal1",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/preview%20procal1.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/preview%20procal1.jpg"
+    },
+    {
+      "id": "gal-packaging-121",
+      "title": "Desain Kemasan & Label Produk ",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/rev.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/rev.jpg"
+    },
+    {
+      "id": "gal-packaging-122",
+      "title": "Desain Kemasan & Label Produk ",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/sample.png",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/sample.png"
+    },
+    {
+      "id": "gal-packaging-123",
+      "title": "Template Dvd",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/Template%20DVD.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/Template%20DVD.jpg"
+    },
+    {
+      "id": "gal-packaging-124",
+      "title": "Thai Instant Noodles",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/thai%20instant%20noodles%20mock%20up.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/thai%20instant%20noodles%20mock%20up.jpg"
+    },
+    {
+      "id": "gal-packaging-125",
+      "title": "Tray 4",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/tray%204.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/tray%204.jpg"
+    },
+    {
+      "id": "gal-packaging-126",
+      "title": "Virgin Cc Jar",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/virgin%20cc%20mock%20up%20jar.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/virgin%20cc%20mock%20up%20jar.jpg"
+    },
+    {
+      "id": "gal-packaging-127",
+      "title": "Xerect",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/xerect%20copy%20copy.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/xerect%20copy%20copy.jpg"
+    },
+    {
+      "id": "gal-packaging-128",
+      "title": "Xerect",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/xerect.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/xerect.jpg"
+    },
+    {
+      "id": "gal-packaging-129",
+      "title": "Zinger Back",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/zinger%20back.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/zinger%20back.jpg"
+    },
+    {
+      "id": "gal-packaging-130",
+      "title": "Zinger Front",
+      "category": "Packaging",
+      "image": "/portfolio-assets/PACKAGING/zinger%20front.jpg",
+      "desc": "Desain kemasan produk, label botol, pouch, dan packaging komersial yang siap cetak.",
+      "thumb": "/portfolio-thumbs/PACKAGING/zinger%20front.jpg"
+    },
+    {
+      "id": "gal-layout-131",
+      "title": "Desain Layout & Media Cetak #6",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/6.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/6.jpg"
+    },
+    {
+      "id": "gal-layout-132",
+      "title": "Alwahaqq",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/ALWAHAQQ.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/ALWAHAQQ.jpg"
+    },
+    {
+      "id": "gal-layout-133",
+      "title": "Amazing Training",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/amazing%20training.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/amazing%20training.jpg"
+    },
+    {
+      "id": "gal-layout-134",
+      "title": "Ampere",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/AMPERE.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/AMPERE.jpg"
+    },
+    {
+      "id": "gal-layout-135",
+      "title": "Anual Metting",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/anual%20metting.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/anual%20metting.jpg"
+    },
+    {
+      "id": "gal-layout-136",
+      "title": "Apa Itu Md",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/apa%20itu%20md.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/apa%20itu%20md.jpg"
+    },
+    {
+      "id": "gal-layout-137",
+      "title": "Ashiatsu",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/ashiatsu%20(1).jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/ashiatsu%20(1).jpg"
+    },
+    {
+      "id": "gal-layout-138",
+      "title": "Ashiatsu",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/ashiatsu%20(2).jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/ashiatsu%20(2).jpg"
+    },
+    {
+      "id": "gal-layout-139",
+      "title": "Ashiatsu",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/ashiatsu%20(3).jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/ashiatsu%20(3).jpg"
+    },
+    {
+      "id": "gal-layout-140",
+      "title": "Backdrop Acara Makesta",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BACKDROOP%20MAKESTA%20KARTOo.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BACKDROOP%20MAKESTA%20KARTOo.jpg"
+    },
+    {
+      "id": "gal-layout-141",
+      "title": "Backdrop Acara Makesta",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BACKDROOP%20MAKESTA.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BACKDROOP%20MAKESTA.jpg"
+    },
+    {
+      "id": "gal-layout-142",
+      "title": "Backdrop Buber Nu",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/backdrop%20BUBER%20NU.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/backdrop%20BUBER%20NU.jpg"
+    },
+    {
+      "id": "gal-layout-143",
+      "title": "Backdrop Ijazahan",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/backdrop%20ijazahan.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/backdrop%20ijazahan.jpg"
+    },
+    {
+      "id": "gal-layout-144",
+      "title": "Backdrop Mf",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BACKDROP%20MF.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BACKDROP%20MF.jpg"
+    },
+    {
+      "id": "gal-layout-145",
+      "title": "Backdrop Ngopi Bareng",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BACKDROP%20NGOPI%20BARENG.png",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BACKDROP%20NGOPI%20BARENG.png"
+    },
+    {
+      "id": "gal-layout-146",
+      "title": "Backdrop Nukrea",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BACKDROP%20NUKREA.png",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BACKDROP%20NUKREA.png"
+    },
+    {
+      "id": "gal-layout-147",
+      "title": "Backdrop",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BACKDROP.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BACKDROP.jpg"
+    },
+    {
+      "id": "gal-layout-148",
+      "title": "Banana Chips Blue Label",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BANANA%20CHIPS%20blue%20label.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BANANA%20CHIPS%20blue%20label.jpg"
+    },
+    {
+      "id": "gal-layout-149",
+      "title": "Banana Chips",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BANANA%20CHIPS%20neww.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BANANA%20CHIPS%20neww.jpg"
+    },
+    {
+      "id": "gal-layout-150",
+      "title": "Banner Peduli Pacitan",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/banner%20peduli%20pacitan.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/banner%20peduli%20pacitan.jpg"
+    },
+    {
+      "id": "gal-layout-151",
+      "title": "Banner Pengajian Umumm",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/banner%20pengajian%20umumM.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/banner%20pengajian%20umumM.jpg"
+    },
+    {
+      "id": "gal-layout-152",
+      "title": "Brosur Belakang",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BROSUR%20belakang.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BROSUR%20belakang.jpg"
+    },
+    {
+      "id": "gal-layout-153",
+      "title": "Desain Kemasan Bio Nusantara",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/brosur%20bionuswa.png",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/brosur%20bionuswa.png"
+    },
+    {
+      "id": "gal-layout-154",
+      "title": "Brosur Cro",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BROSUR%20CRO.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BROSUR%20CRO.jpg"
+    },
+    {
+      "id": "gal-layout-155",
+      "title": "Brosur Depan",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BROSUR%20depan.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BROSUR%20depan.jpg"
+    },
+    {
+      "id": "gal-layout-156",
+      "title": "Desain Brosur Media Lazisnu",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BROSUR%20LAZISNU%20baru.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BROSUR%20LAZISNU%20baru.jpg"
+    },
+    {
+      "id": "gal-layout-157",
+      "title": "Desain Brosur Media Lazisnu",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/brosur%20new%20lazisnu.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/brosur%20new%20lazisnu.jpg"
+    },
+    {
+      "id": "gal-layout-158",
+      "title": "Brosur Rl Lumajang",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BROSUR%20RL%20LUMAJANG.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BROSUR%20RL%20LUMAJANG.jpg"
+    },
+    {
+      "id": "gal-layout-159",
+      "title": "Buat Ig",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BUAT%20IG.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BUAT%20IG.jpg"
+    },
+    {
+      "id": "gal-layout-160",
+      "title": "Buku Dongkrek",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/buku%20dongkrek.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/buku%20dongkrek.jpg"
+    },
+    {
+      "id": "gal-layout-161",
+      "title": "Burdah Agustus",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/BURDAH%20AGUSTUS.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/BURDAH%20AGUSTUS.jpg"
+    },
+    {
+      "id": "gal-layout-162",
+      "title": "Burdah Syawalan",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/burdah%20syawalan.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/burdah%20syawalan.jpg"
+    },
+    {
+      "id": "gal-layout-163",
+      "title": "Burdahseptember",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/burdahseptember.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/burdahseptember.jpg"
+    },
+    {
+      "id": "gal-layout-164",
+      "title": "Cantikin Promo",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/cantikin%20PROMO%20(2).jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/cantikin%20PROMO%20(2).jpg"
+    },
+    {
+      "id": "gal-layout-165",
+      "title": "Card Panitia Lmh",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/card%20panitia%20LMH.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/card%20panitia%20LMH.jpg"
+    },
+    {
+      "id": "gal-layout-166",
+      "title": "Cek1",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/CEK1.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/CEK1.jpg"
+    },
+    {
+      "id": "gal-layout-167",
+      "title": "Cekii",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/CEKII.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/CEKII.jpg"
+    },
+    {
+      "id": "gal-layout-168",
+      "title": "Cekvi",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/CEKVI.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/CEKVI.jpg"
+    },
+    {
+      "id": "gal-layout-169",
+      "title": "Cetak Ap120 40lembar",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/CETAK%20AP120%2040LEMBAR.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/CETAK%20AP120%2040LEMBAR.jpg"
+    },
+    {
+      "id": "gal-layout-170",
+      "title": "Cetak Xbanner Bahan Biasa 160x80 A",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/CETAK%20XBANNER%20BAHAN%20BIASA%20160x80%20A.png",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/CETAK%20XBANNER%20BAHAN%20BIASA%20160x80%20A.png"
+    },
+    {
+      "id": "gal-layout-171",
+      "title": "Cetak Xbanner Bahan Biasa 160x80 B",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/CETAK%20XBANNER%20BAHAN%20BIASA%20160x80%20B.png",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/CETAK%20XBANNER%20BAHAN%20BIASA%20160x80%20B.png"
+    },
+    {
+      "id": "gal-layout-172",
+      "title": "Cover 1",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/cover%201.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/cover%201.jpg"
+    },
+    {
+      "id": "gal-layout-173",
+      "title": "Cover3",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/cover3.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/cover3.jpg"
+    },
+    {
+      "id": "gal-layout-174",
+      "title": "Crosfit",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/CROSFIT.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/CROSFIT.jpg"
+    },
+    {
+      "id": "gal-layout-175",
+      "title": "Cua Cell",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/CUA%20CELL.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/CUA%20CELL.jpg"
+    },
+    {
+      "id": "gal-layout-176",
+      "title": "Damawa",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/damawa.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/damawa.jpg"
+    },
+    {
+      "id": "gal-layout-177",
+      "title": "Drbb",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/drbb.PNG",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/drbb.PNG"
+    },
+    {
+      "id": "gal-layout-178",
+      "title": "Fesban Kab Madiun",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/fesban%20kab%20madiun.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/fesban%20kab%20madiun.jpg"
+    },
+    {
+      "id": "gal-layout-179",
+      "title": "Flyer",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/Flyer%20copy.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/Flyer%20copy.jpg"
+    },
+    {
+      "id": "gal-layout-180",
+      "title": "Flyer Horizontal",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/flyer%20horizontal.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/flyer%20horizontal.jpg"
+    },
+    {
+      "id": "gal-layout-181",
+      "title": "Flyer Ngopi Bareng",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/FLYER%20NGOPI%20BARENG.png",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/FLYER%20NGOPI%20BARENG.png"
+    },
+    {
+      "id": "gal-layout-182",
+      "title": "Flyer Tt Liburan",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/flyer%20tt%20liburan.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/flyer%20tt%20liburan.jpg"
+    },
+    {
+      "id": "gal-layout-183",
+      "title": "Flyerzein",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/flyerzein.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/flyerzein.jpg"
+    },
+    {
+      "id": "gal-layout-184",
+      "title": "Ganci",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/ganci.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/ganci.jpg"
+    },
+    {
+      "id": "gal-layout-185",
+      "title": "Gantengin Quote2",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/gantengin%20QUOTE2.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/gantengin%20QUOTE2.jpg"
+    },
+    {
+      "id": "gal-layout-186",
+      "title": "Gantengin Sampul",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/gantengin%20SAMPUL.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/gantengin%20SAMPUL.jpg"
+    },
+    {
+      "id": "gal-layout-187",
+      "title": "Gapura Masjid Dengan Samping",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/gapura%20masjid%20dengan%20samping.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/gapura%20masjid%20dengan%20samping.jpg"
+    },
+    {
+      "id": "gal-layout-188",
+      "title": "Gemblengan Kantor",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/GEMBLENGAN%20KANTOR.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/GEMBLENGAN%20KANTOR.jpg"
+    },
+    {
+      "id": "gal-layout-189",
+      "title": "Gemblengan Isi Lagi Isi Lagi",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/GEMBLENGAN%20REVISI%20LAGI%20REVISI%20LAGI.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/GEMBLENGAN%20REVISI%20LAGI%20REVISI%20LAGI.jpg"
+    },
+    {
+      "id": "gal-layout-190",
+      "title": "Greystone",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/GREYSTONE.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/GREYSTONE.jpg"
+    },
+    {
+      "id": "gal-layout-191",
+      "title": "Harjadkabmad",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/harjadkabmad.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/harjadkabmad.jpg"
+    },
+    {
+      "id": "gal-layout-192",
+      "title": "Hero Sword",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/HERO%20SWORD.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/HERO%20SWORD.jpg"
+    },
+    {
+      "id": "gal-layout-193",
+      "title": "Hypestoriestemplate",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/HYPESTORIESTEMPLATE.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/HYPESTORIESTEMPLATE.jpg"
+    },
+    {
+      "id": "gal-layout-194",
+      "title": "Instastory",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/INSTASTORY.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/INSTASTORY.jpg"
+    },
+    {
+      "id": "gal-layout-195",
+      "title": "Ipnu Bagi Takjil",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/ipnu%20bagi%20takjil.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/ipnu%20bagi%20takjil.jpg"
+    },
+    {
+      "id": "gal-layout-196",
+      "title": "Ipnu Idul Adha",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/ipnu%20idul%20adha.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/ipnu%20idul%20adha.jpg"
+    },
+    {
+      "id": "gal-layout-197",
+      "title": "Ipnu Pancasila2",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/IPNU%20PANCASILA2.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/IPNU%20PANCASILA2.jpg"
+    },
+    {
+      "id": "gal-layout-198",
+      "title": "Iseng22222",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/iseng22222.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/iseng22222.jpg"
+    },
+    {
+      "id": "gal-layout-199",
+      "title": "Kaos Kang Iklan",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/kaos%20kang%20iklan.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/kaos%20kang%20iklan.jpg"
+    },
+    {
+      "id": "gal-layout-200",
+      "title": "Kaos Ktm",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/kaos%20KTM.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/kaos%20KTM.jpg"
+    },
+    {
+      "id": "gal-layout-201",
+      "title": "Katalog Mall",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/KATALOG%20MALL.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/KATALOG%20MALL.jpg"
+    },
+    {
+      "id": "gal-layout-202",
+      "title": "Khawla",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/khawla.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/khawla.jpg"
+    },
+    {
+      "id": "gal-layout-203",
+      "title": "Kira Kimchi",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/kira%20kimchi%20(1).jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/kira%20kimchi%20(1).jpg"
+    },
+    {
+      "id": "gal-layout-204",
+      "title": "Kira Kimchi",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/kira%20kimchi%20(2).jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/kira%20kimchi%20(2).jpg"
+    },
+    {
+      "id": "gal-layout-205",
+      "title": "Kong",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/KONG.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/KONG.jpg"
+    },
+    {
+      "id": "gal-layout-206",
+      "title": "Kud Bantarangin",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/KUD%20Bantarangin.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/KUD%20Bantarangin.jpg"
+    },
+    {
+      "id": "gal-layout-207",
+      "title": "Label Sambel Pecel Kuliah Maba Ijo",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/label%20sambel%20pecel%20kuliah%20maba%20ijo.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/label%20sambel%20pecel%20kuliah%20maba%20ijo.jpg"
+    },
+    {
+      "id": "gal-layout-208",
+      "title": "Lapau Sm1",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/lapau%20SM1.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/lapau%20SM1.jpg"
+    },
+    {
+      "id": "gal-layout-209",
+      "title": "Lapau Sm5",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/lapau%20SM5.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/lapau%20SM5.jpg"
+    },
+    {
+      "id": "gal-layout-210",
+      "title": "Long Flyer",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/Long%20flyer.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/Long%20flyer.jpg"
+    },
+    {
+      "id": "gal-layout-211",
+      "title": "Lowongan Admin",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/lowongan%20admin.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/lowongan%20admin.jpg"
+    },
+    {
+      "id": "gal-layout-212",
+      "title": "Lowongan",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/lowongan.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/lowongan.jpg"
+    },
+    {
+      "id": "gal-layout-213",
+      "title": "Madrasah Design Rohis Man2",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/MADRASAH%20DESIGN%20ROHIS%20MAN2.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/MADRASAH%20DESIGN%20ROHIS%20MAN2.jpg"
+    },
+    {
+      "id": "gal-layout-214",
+      "title": "Magazine",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/Magazine.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/Magazine.jpg"
+    },
+    {
+      "id": "gal-layout-215",
+      "title": "Maret2",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/maret2.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/maret2.jpg"
+    },
+    {
+      "id": "gal-layout-216",
+      "title": "Maret4",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/maret4.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/maret4.jpg"
+    },
+    {
+      "id": "gal-layout-217",
+      "title": "Mbok Jamuuu",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/mbok%20jamuuu.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/mbok%20jamuuu.jpg"
+    },
+    {
+      "id": "gal-layout-218",
+      "title": "Monster Robot",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/MONSTER%20ROBOT.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/MONSTER%20ROBOT.jpg"
+    },
+    {
+      "id": "gal-layout-219",
+      "title": "Niquayyy",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/niquayYY.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/niquayYY.jpg"
+    },
+    {
+      "id": "gal-layout-220",
+      "title": "Nm102",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/NM102.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/NM102.jpg"
+    },
+    {
+      "id": "gal-layout-221",
+      "title": "Nuswa Mineral Label",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/NUSWA%20MINERAL%20label.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/NUSWA%20MINERAL%20label.jpg"
+    },
+    {
+      "id": "gal-layout-222",
+      "title": "Omah Laundry",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/omah%20laundry.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/omah%20laundry.jpg"
+    },
+    {
+      "id": "gal-layout-223",
+      "title": "Padhang Bulan",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/PADHANG%20BULAN.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/PADHANG%20BULAN.jpg"
+    },
+    {
+      "id": "gal-layout-224",
+      "title": "Pamflet M2kmsc",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/pamflet%20m2kmsc.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/pamflet%20m2kmsc.jpg"
+    },
+    {
+      "id": "gal-layout-225",
+      "title": "Panjang Hitam",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/Panjang%20Hitam.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/Panjang%20Hitam.jpg"
+    },
+    {
+      "id": "gal-layout-226",
+      "title": "Peduli Garut Kotak",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/PEDULI%20GARUT%20KOTAK.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/PEDULI%20GARUT%20KOTAK.jpg"
+    },
+    {
+      "id": "gal-layout-227",
+      "title": "Pengajian Siti Rohmah",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/pengajian%20siti%20rohmah.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/pengajian%20siti%20rohmah.jpg"
+    },
+    {
+      "id": "gal-layout-228",
+      "title": "Porfol Flyer",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/porfol%20flyer.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/porfol%20flyer.jpg"
+    },
+    {
+      "id": "gal-layout-229",
+      "title": "Porfol1",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/porfol1.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/porfol1.jpg"
+    },
+    {
+      "id": "gal-layout-230",
+      "title": "Poster Pertama",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/poster%20pertama.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/poster%20pertama.jpg"
+    },
+    {
+      "id": "gal-layout-231",
+      "title": "Talita",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/preview%20talita.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/preview%20talita.jpg"
+    },
+    {
+      "id": "gal-layout-232",
+      "title": "Propsal",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/propsal.png",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/propsal.png"
+    },
+    {
+      "id": "gal-layout-233",
+      "title": "Psychic Astrology",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/psychic%20astrology.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/psychic%20astrology.jpg"
+    },
+    {
+      "id": "gal-layout-234",
+      "title": "Pvp",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/pvp.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/pvp.jpg"
+    },
+    {
+      "id": "gal-layout-235",
+      "title": "Qa Roll Banner 180x80",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/QA%20roll%20banner%20180x80.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/QA%20roll%20banner%20180x80.jpg"
+    },
+    {
+      "id": "gal-layout-236",
+      "title": "Qa1",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/QA1.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/QA1.jpg"
+    },
+    {
+      "id": "gal-layout-237",
+      "title": "Qa2",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/QA2.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/QA2.jpg"
+    },
+    {
+      "id": "gal-layout-238",
+      "title": "Quote Gantengin2",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/quote%20gantengin2.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/quote%20gantengin2.jpg"
+    },
+    {
+      "id": "gal-layout-239",
+      "title": "Ramadhan Siti Rohmah",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/RAMADHAN%20SITI%20ROHMAH.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/RAMADHAN%20SITI%20ROHMAH.jpg"
+    },
+    {
+      "id": "gal-layout-240",
+      "title": "Reogan Ngraket",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/reogan%20ngraket.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/reogan%20ngraket.jpg"
+    },
+    {
+      "id": "gal-layout-241",
+      "title": "Sertifikat Konfercab Ipnu",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/sertifikat%20konfercab%20ipnu.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/sertifikat%20konfercab%20ipnu.jpg"
+    },
+    {
+      "id": "gal-layout-242",
+      "title": "Sertifikat Siti Rohmah2",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/SERTIFIKAT%20siti%20rohmah2.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/SERTIFIKAT%20siti%20rohmah2.jpg"
+    },
+    {
+      "id": "gal-layout-243",
+      "title": "Shogun Head",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/SHOGUN%20HEAD.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/SHOGUN%20HEAD.jpg"
+    },
+    {
+      "id": "gal-layout-244",
+      "title": "Shogun",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/SHOGUN.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/SHOGUN.jpg"
+    },
+    {
+      "id": "gal-layout-245",
+      "title": "Social Service Ec",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/social%20service%20EC.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/social%20service%20EC.jpg"
+    },
+    {
+      "id": "gal-layout-246",
+      "title": "Spanduk Ngopi Bareng",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/SPANDUK%20NGOPI%20BARENG.png",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/SPANDUK%20NGOPI%20BARENG.png"
+    },
+    {
+      "id": "gal-layout-247",
+      "title": "Spanduk Noor",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/spanduk%20noor.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/spanduk%20noor.jpg"
+    },
+    {
+      "id": "gal-layout-248",
+      "title": "Sribu Lagi",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/sribu%20lagi.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/sribu%20lagi.jpg"
+    },
+    {
+      "id": "gal-layout-249",
+      "title": "Stiker Ipippnu Muneng",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/stiker%20ipippnu%20muneng.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/stiker%20ipippnu%20muneng.jpg"
+    },
+    {
+      "id": "gal-layout-250",
+      "title": "Stiker Milad Man1",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/STIKER%20MILAD%20MAN1.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/STIKER%20MILAD%20MAN1.jpg"
+    },
+    {
+      "id": "gal-layout-251",
+      "title": "Stiker Rapat",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/STIKER%20RAPAT.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/STIKER%20RAPAT.jpg"
+    },
+    {
+      "id": "gal-layout-252",
+      "title": "Tolak Fds",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/TOLAK%20FDS.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/TOLAK%20FDS.jpg"
+    },
+    {
+      "id": "gal-layout-253",
+      "title": "Urban Instastory",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/URBAN%20INSTASTORY.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/URBAN%20INSTASTORY.jpg"
+    },
+    {
+      "id": "gal-layout-254",
+      "title": "Vapemeetx",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/VAPEMEETX.png",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/VAPEMEETX.png"
+    },
+    {
+      "id": "gal-layout-255",
+      "title": "Violita Juice1",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/violita%20juice1.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/violita%20juice1.jpg"
+    },
+    {
+      "id": "gal-layout-256",
+      "title": "Violita Juice2",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/violita%20juice2.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/violita%20juice2.jpg"
+    },
+    {
+      "id": "gal-layout-257",
+      "title": "Violita Juice3",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/violita%20juice3.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/violita%20juice3.jpg"
+    },
+    {
+      "id": "gal-layout-258",
+      "title": "Wandeipnuxbanner",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/wandeipnuXBANNER.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/wandeipnuXBANNER.jpg"
+    },
+    {
+      "id": "gal-layout-259",
+      "title": "Warung Mbak Sem",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/warung%20mbak%20sem.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/warung%20mbak%20sem.jpg"
+    },
+    {
+      "id": "gal-layout-260",
+      "title": "Zakatgqm",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/zakatgqm.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/zakatgqm.jpg"
+    },
+    {
+      "id": "gal-layout-261",
+      "title": "Zland Cloth2",
+      "category": "Layout & Cetak",
+      "image": "/portfolio-assets/LAYOUT/ZLAND%20CLOTH2.jpg",
+      "desc": "Tata letak publikasi cetak seperti brosur, backdrop panggung, banner event, dan profil buku.",
+      "thumb": "/portfolio-thumbs/LAYOUT/ZLAND%20CLOTH2.jpg"
+    },
+    {
+      "id": "gal-illustration-262",
+      "title": "Badak Badmintonan Karakter Kartun",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/badak%20badmintonan.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/badak%20badmintonan.png"
+    },
+    {
+      "id": "gal-illustration-263",
+      "title": "Karya Seni Ilustrasi Digital ",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Capture.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Capture.PNG"
+    },
+    {
+      "id": "gal-illustration-264",
+      "title": "Karya Seni Ilustrasi Digital #2",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Capture2.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Capture2.PNG"
+    },
+    {
+      "id": "gal-illustration-265",
+      "title": "Corruptorzombie",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/corruptorzombie.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/corruptorzombie.PNG"
+    },
+    {
+      "id": "gal-illustration-266",
+      "title": "Ilustrasi Karakter Gatotkaca",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/gatottt.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/gatottt.jpg"
+    },
+    {
+      "id": "gal-illustration-267",
+      "title": "Kera Sakti Sun Gokong Panoramic Art",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/gokong%20panjang.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/gokong%20panjang.jpg"
+    },
+    {
+      "id": "gal-illustration-268",
+      "title": "Grimc",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/grimc.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/grimc.PNG"
+    },
+    {
+      "id": "gal-illustration-269",
+      "title": "Grutt",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/grutt.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/grutt.PNG"
+    },
+    {
+      "id": "gal-illustration-270",
+      "title": "Ilustrasi Karakter Gundala Hero",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/gundala.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/gundala.jpg"
+    },
+    {
+      "id": "gal-illustration-271",
+      "title": "Karya Seni Ilustrasi Digital #1",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il1.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il1.PNG"
+    },
+    {
+      "id": "gal-illustration-272",
+      "title": "Karya Seni Ilustrasi Digital #10",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il10.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il10.PNG"
+    },
+    {
+      "id": "gal-illustration-273",
+      "title": "Karya Seni Ilustrasi Digital #11",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il11.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il11.PNG"
+    },
+    {
+      "id": "gal-illustration-274",
+      "title": "Karya Seni Ilustrasi Digital #12",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il12.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il12.PNG"
+    },
+    {
+      "id": "gal-illustration-275",
+      "title": "Karya Seni Ilustrasi Digital #13",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il13.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il13.PNG"
+    },
+    {
+      "id": "gal-illustration-276",
+      "title": "Karya Seni Ilustrasi Digital #14",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il14.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il14.PNG"
+    },
+    {
+      "id": "gal-illustration-277",
+      "title": "Karya Seni Ilustrasi Digital #15",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il15.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il15.PNG"
+    },
+    {
+      "id": "gal-illustration-278",
+      "title": "Karya Seni Ilustrasi Digital #16",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il16.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il16.PNG"
+    },
+    {
+      "id": "gal-illustration-279",
+      "title": "Karya Seni Ilustrasi Digital #17",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il17.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il17.PNG"
+    },
+    {
+      "id": "gal-illustration-280",
+      "title": "Karya Seni Ilustrasi Digital #18",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il18.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il18.PNG"
+    },
+    {
+      "id": "gal-illustration-281",
+      "title": "Karya Seni Ilustrasi Digital #19",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il19.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il19.PNG"
+    },
+    {
+      "id": "gal-illustration-282",
+      "title": "Karya Seni Ilustrasi Digital #2",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il2.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il2.PNG"
+    },
+    {
+      "id": "gal-illustration-283",
+      "title": "Karya Seni Ilustrasi Digital #20",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il20.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il20.PNG"
+    },
+    {
+      "id": "gal-illustration-284",
+      "title": "Karya Seni Ilustrasi Digital #3",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il3.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il3.PNG"
+    },
+    {
+      "id": "gal-illustration-285",
+      "title": "Karya Seni Ilustrasi Digital #40",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il40.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il40.PNG"
+    },
+    {
+      "id": "gal-illustration-286",
+      "title": "Karya Seni Ilustrasi Digital #41",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il41.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il41.PNG"
+    },
+    {
+      "id": "gal-illustration-287",
+      "title": "Karya Seni Ilustrasi Digital #42",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il42.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il42.PNG"
+    },
+    {
+      "id": "gal-illustration-288",
+      "title": "Karya Seni Ilustrasi Digital #43",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il43.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il43.PNG"
+    },
+    {
+      "id": "gal-illustration-289",
+      "title": "Karya Seni Ilustrasi Digital #44",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il44.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il44.PNG"
+    },
+    {
+      "id": "gal-illustration-290",
+      "title": "Karya Seni Ilustrasi Digital #45",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il45.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il45.PNG"
+    },
+    {
+      "id": "gal-illustration-291",
+      "title": "Karya Seni Ilustrasi Digital #46",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il46.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il46.PNG"
+    },
+    {
+      "id": "gal-illustration-292",
+      "title": "Karya Seni Ilustrasi Digital #47",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il47.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il47.PNG"
+    },
+    {
+      "id": "gal-illustration-293",
+      "title": "Karya Seni Ilustrasi Digital #48",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il48.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il48.PNG"
+    },
+    {
+      "id": "gal-illustration-294",
+      "title": "Karya Seni Ilustrasi Digital #49",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il49.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il49.PNG"
+    },
+    {
+      "id": "gal-illustration-295",
+      "title": "Karya Seni Ilustrasi Digital #5",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il5.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il5.PNG"
+    },
+    {
+      "id": "gal-illustration-296",
+      "title": "Karya Seni Ilustrasi Digital #50",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il50.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il50.PNG"
+    },
+    {
+      "id": "gal-illustration-297",
+      "title": "Karya Seni Ilustrasi Digital #51",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il51.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il51.PNG"
+    },
+    {
+      "id": "gal-illustration-298",
+      "title": "Karya Seni Ilustrasi Digital #52",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il52.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il52.PNG"
+    },
+    {
+      "id": "gal-illustration-299",
+      "title": "Karya Seni Ilustrasi Digital #53",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il53.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il53.PNG"
+    },
+    {
+      "id": "gal-illustration-300",
+      "title": "Karya Seni Ilustrasi Digital #54",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il54.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il54.PNG"
+    },
+    {
+      "id": "gal-illustration-301",
+      "title": "Karya Seni Ilustrasi Digital #55",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il55.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il55.PNG"
+    },
+    {
+      "id": "gal-illustration-302",
+      "title": "Karya Seni Ilustrasi Digital #56",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il56.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il56.PNG"
+    },
+    {
+      "id": "gal-illustration-303",
+      "title": "Karya Seni Ilustrasi Digital #57",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il57.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il57.PNG"
+    },
+    {
+      "id": "gal-illustration-304",
+      "title": "Karya Seni Ilustrasi Digital #58",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il58.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il58.PNG"
+    },
+    {
+      "id": "gal-illustration-305",
+      "title": "Karya Seni Ilustrasi Digital #6",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il6.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il6.PNG"
+    },
+    {
+      "id": "gal-illustration-306",
+      "title": "Karya Seni Ilustrasi Digital #7",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il7.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il7.PNG"
+    },
+    {
+      "id": "gal-illustration-307",
+      "title": "Karya Seni Ilustrasi Digital #70",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il70.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il70.PNG"
+    },
+    {
+      "id": "gal-illustration-308",
+      "title": "Karya Seni Ilustrasi Digital #72",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il72.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il72.PNG"
+    },
+    {
+      "id": "gal-illustration-309",
+      "title": "Karya Seni Ilustrasi Digital #74",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il74.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il74.PNG"
+    },
+    {
+      "id": "gal-illustration-310",
+      "title": "Karya Seni Ilustrasi Digital #76",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il76.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il76.PNG"
+    },
+    {
+      "id": "gal-illustration-311",
+      "title": "Karya Seni Ilustrasi Digital #77",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il77.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il77.PNG"
+    },
+    {
+      "id": "gal-illustration-312",
+      "title": "Karya Seni Ilustrasi Digital #78",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il78.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il78.PNG"
+    },
+    {
+      "id": "gal-illustration-313",
+      "title": "Karya Seni Ilustrasi Digital #79",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il79.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il79.PNG"
+    },
+    {
+      "id": "gal-illustration-314",
+      "title": "Karya Seni Ilustrasi Digital #8",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il8.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il8.PNG"
+    },
+    {
+      "id": "gal-illustration-315",
+      "title": "Karya Seni Ilustrasi Digital #80",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il80.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il80.PNG"
+    },
+    {
+      "id": "gal-illustration-316",
+      "title": "Karya Seni Ilustrasi Digital #81",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il81.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il81.PNG"
+    },
+    {
+      "id": "gal-illustration-317",
+      "title": "Karya Seni Ilustrasi Digital #9",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/il9.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/il9.PNG"
+    },
+    {
+      "id": "gal-illustration-318",
+      "title": "Illustration101",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration101.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration101.png"
+    },
+    {
+      "id": "gal-illustration-319",
+      "title": "Illustration104",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration104.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration104.png"
+    },
+    {
+      "id": "gal-illustration-320",
+      "title": "Illustration19",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration19.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration19.png"
+    },
+    {
+      "id": "gal-illustration-321",
+      "title": "Illustration31",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration31.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration31.jpg"
+    },
+    {
+      "id": "gal-illustration-322",
+      "title": "Illustration33",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration33.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration33.jpg"
+    },
+    {
+      "id": "gal-illustration-323",
+      "title": "Illustration34",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration34.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration34.jpg"
+    },
+    {
+      "id": "gal-illustration-324",
+      "title": "Illustration36",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration36.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration36.jpg"
+    },
+    {
+      "id": "gal-illustration-325",
+      "title": "Illustration37",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration37.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration37.jpg"
+    },
+    {
+      "id": "gal-illustration-326",
+      "title": "Illustration4",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration4.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration4.jpg"
+    },
+    {
+      "id": "gal-illustration-327",
+      "title": "Illustration42",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration42.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration42.jpg"
+    },
+    {
+      "id": "gal-illustration-328",
+      "title": "Illustration43",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration43.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration43.jpg"
+    },
+    {
+      "id": "gal-illustration-329",
+      "title": "Illustration44",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration44.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration44.png"
+    },
+    {
+      "id": "gal-illustration-330",
+      "title": "Illustration45",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration45.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration45.jpg"
+    },
+    {
+      "id": "gal-illustration-331",
+      "title": "Illustration51",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration51.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration51.png"
+    },
+    {
+      "id": "gal-illustration-332",
+      "title": "Illustration53",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration53.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration53.png"
+    },
+    {
+      "id": "gal-illustration-333",
+      "title": "Illustration55",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/illustration55.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/illustration55.PNG"
+    },
+    {
+      "id": "gal-illustration-334",
+      "title": "Illustration56",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration56.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration56.png"
+    },
+    {
+      "id": "gal-illustration-335",
+      "title": "Illustration59",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration59.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration59.png"
+    },
+    {
+      "id": "gal-illustration-336",
+      "title": "Illustration601",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration601.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration601.png"
+    },
+    {
+      "id": "gal-illustration-337",
+      "title": "Illustration602",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration602.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration602.png"
+    },
+    {
+      "id": "gal-illustration-338",
+      "title": "Illustration603",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration603.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration603.png"
+    },
+    {
+      "id": "gal-illustration-339",
+      "title": "Illustration62",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration62.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration62.jpg"
+    },
+    {
+      "id": "gal-illustration-340",
+      "title": "Illustration65",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration65.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration65.png"
+    },
+    {
+      "id": "gal-illustration-341",
+      "title": "Illustration66",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration66.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration66.png"
+    },
+    {
+      "id": "gal-illustration-342",
+      "title": "Illustration67",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration67.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration67.png"
+    },
+    {
+      "id": "gal-illustration-343",
+      "title": "Illustration68",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration68.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration68.png"
+    },
+    {
+      "id": "gal-illustration-344",
+      "title": "Illustration70",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration70.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration70.png"
+    },
+    {
+      "id": "gal-illustration-345",
+      "title": "Illustration78",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration78.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration78.png"
+    },
+    {
+      "id": "gal-illustration-346",
+      "title": "Illustration79",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration79.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration79.png"
+    },
+    {
+      "id": "gal-illustration-347",
+      "title": "Illustration80",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration80.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration80.png"
+    },
+    {
+      "id": "gal-illustration-348",
+      "title": "Illustration84",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration84.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration84.png"
+    },
+    {
+      "id": "gal-illustration-349",
+      "title": "Illustration85",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration85.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration85.png"
+    },
+    {
+      "id": "gal-illustration-350",
+      "title": "Illustration86",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration86.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration86.png"
+    },
+    {
+      "id": "gal-illustration-351",
+      "title": "Illustration87",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration87.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration87.png"
+    },
+    {
+      "id": "gal-illustration-352",
+      "title": "Illustration88",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/Illustration88.png",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/Illustration88.png"
+    },
+    {
+      "id": "gal-illustration-353",
+      "title": "Izrailll",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/izrailll.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/izrailll.PNG"
+    },
+    {
+      "id": "gal-illustration-354",
+      "title": "Joker2",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/joker2.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/joker2.PNG"
+    },
+    {
+      "id": "gal-illustration-355",
+      "title": "Lubna",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/LUBNA.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/LUBNA.PNG"
+    },
+    {
+      "id": "gal-illustration-356",
+      "title": "Mascot1",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/mascot1.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/mascot1.jpg"
+    },
+    {
+      "id": "gal-illustration-357",
+      "title": "Mascot2",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/mascot2.jpg",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/mascot2.jpg"
+    },
+    {
+      "id": "gal-illustration-358",
+      "title": "Mboh",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/mboh.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/mboh.PNG"
+    },
+    {
+      "id": "gal-illustration-359",
+      "title": "Mushroom",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/MUSHROOM.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/MUSHROOM.PNG"
+    },
+    {
+      "id": "gal-illustration-360",
+      "title": "Ninjaa",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/ninjaa.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/ninjaa.PNG"
+    },
+    {
+      "id": "gal-illustration-361",
+      "title": "Nogooo",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/nogooo.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/nogooo.PNG"
+    },
+    {
+      "id": "gal-illustration-362",
+      "title": "Punchkangoroo",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/punchkangoroo.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/punchkangoroo.PNG"
+    },
+    {
+      "id": "gal-illustration-363",
+      "title": "Robo18",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robo18.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robo18.PNG"
+    },
+    {
+      "id": "gal-illustration-364",
+      "title": "Robokids",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/ROBOKIDS.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/ROBOKIDS.PNG"
+    },
+    {
+      "id": "gal-illustration-365",
+      "title": "Robot",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot.PNG"
+    },
+    {
+      "id": "gal-illustration-366",
+      "title": "Robot10",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot10.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot10.PNG"
+    },
+    {
+      "id": "gal-illustration-367",
+      "title": "Robot11",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot11.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot11.PNG"
+    },
+    {
+      "id": "gal-illustration-368",
+      "title": "Robot12",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot12.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot12.PNG"
+    },
+    {
+      "id": "gal-illustration-369",
+      "title": "Robot13",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot13.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot13.PNG"
+    },
+    {
+      "id": "gal-illustration-370",
+      "title": "Robot14",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot14.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot14.PNG"
+    },
+    {
+      "id": "gal-illustration-371",
+      "title": "Robot15",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot15.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot15.PNG"
+    },
+    {
+      "id": "gal-illustration-372",
+      "title": "Robot16",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot16.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot16.PNG"
+    },
+    {
+      "id": "gal-illustration-373",
+      "title": "Robot17",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot17.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot17.PNG"
+    },
+    {
+      "id": "gal-illustration-374",
+      "title": "Robot18",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/ROBOT18.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/ROBOT18.PNG"
+    },
+    {
+      "id": "gal-illustration-375",
+      "title": "Robot19",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot19.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot19.PNG"
+    },
+    {
+      "id": "gal-illustration-376",
+      "title": "Robot2",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot2.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot2.PNG"
+    },
+    {
+      "id": "gal-illustration-377",
+      "title": "Robot20",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot20.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot20.PNG"
+    },
+    {
+      "id": "gal-illustration-378",
+      "title": "Robot21",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot21.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot21.PNG"
+    },
+    {
+      "id": "gal-illustration-379",
+      "title": "Robot3",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot3.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot3.PNG"
+    },
+    {
+      "id": "gal-illustration-380",
+      "title": "Robot4",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot4.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot4.PNG"
+    },
+    {
+      "id": "gal-illustration-381",
+      "title": "Robot5",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot5.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot5.PNG"
+    },
+    {
+      "id": "gal-illustration-382",
+      "title": "Robot6",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot6.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot6.PNG"
+    },
+    {
+      "id": "gal-illustration-383",
+      "title": "Robot7",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot7.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot7.PNG"
+    },
+    {
+      "id": "gal-illustration-384",
+      "title": "Robot8",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot8.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot8.PNG"
+    },
+    {
+      "id": "gal-illustration-385",
+      "title": "Robot9",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/robot9.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/robot9.PNG"
+    },
+    {
+      "id": "gal-illustration-386",
+      "title": "Samurai Ninja",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/samurai%20ninja.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/samurai%20ninja.PNG"
+    },
+    {
+      "id": "gal-illustration-387",
+      "title": "Skull Dead",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/skull%20dead.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/skull%20dead.PNG"
+    },
+    {
+      "id": "gal-illustration-388",
+      "title": "Skull Tengu",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/SKULL%20TENGU.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/SKULL%20TENGU.PNG"
+    },
+    {
+      "id": "gal-illustration-389",
+      "title": "St Micel",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/st%20micel.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/st%20micel.PNG"
+    },
+    {
+      "id": "gal-illustration-390",
+      "title": "Wizard",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/wizard.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/wizard.PNG"
+    },
+    {
+      "id": "gal-illustration-391",
+      "title": "Zombiekids",
+      "category": "Ilustrasi Digital",
+      "image": "/portfolio-assets/ILLUSTRATION/zombiekids.PNG",
+      "desc": "Karya seni ilustrasi digital, eksplorasi karakter kartun, maskot, dan artwork fantasi.",
+      "thumb": "/portfolio-thumbs/ILLUSTRATION/zombiekids.PNG"
+    },
+    {
+      "id": "gal-socialmediatemplate-392",
+      "title": "Template Desain Social Media #1",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/1%20(2).png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/1%20(2).png"
+    },
+    {
+      "id": "gal-socialmediatemplate-393",
+      "title": "Template Desain Social Media #1",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/1%20(3).png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/1%20(3).png"
+    },
+    {
+      "id": "gal-socialmediatemplate-394",
+      "title": "Template Desain Social Media #1",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/1%20(4).png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/1%20(4).png"
+    },
+    {
+      "id": "gal-socialmediatemplate-395",
+      "title": "Template Desain Social Media #1",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/1%20(5).png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/1%20(5).png"
+    },
+    {
+      "id": "gal-socialmediatemplate-396",
+      "title": "Template Desain Social Media #1",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/1%20(6).png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/1%20(6).png"
+    },
+    {
+      "id": "gal-socialmediatemplate-397",
+      "title": "Template Desain Social Media #1",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/1%20(7).png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/1%20(7).png"
+    },
+    {
+      "id": "gal-socialmediatemplate-398",
+      "title": "Template Desain Social Media #1",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/1.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/1.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-399",
+      "title": "Template Desain Social Media #10",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/10.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/10.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-400",
+      "title": "Template Desain Social Media #11",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/11.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/11.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-401",
+      "title": "Template Desain Social Media #12",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/12.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/12.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-402",
+      "title": "Template Desain Social Media #13",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/13.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/13.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-403",
+      "title": "Template Desain Social Media #14",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/14.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/14.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-404",
+      "title": "Template Desain Social Media #15",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/15.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/15.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-405",
+      "title": "Template Desain Social Media #16",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/16.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/16.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-406",
+      "title": "Template Desain Social Media #17",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/17.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/17.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-407",
+      "title": "Template Desain Social Media #18",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/18.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/18.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-408",
+      "title": "Template Desain Social Media #19",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/19.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/19.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-409",
+      "title": "Template Desain Social Media #2",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/2%20(2).png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/2%20(2).png"
+    },
+    {
+      "id": "gal-socialmediatemplate-410",
+      "title": "Template Desain Social Media #2",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/2%20(3).png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/2%20(3).png"
+    },
+    {
+      "id": "gal-socialmediatemplate-411",
+      "title": "Template Desain Social Media #2",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/2%20(4).png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/2%20(4).png"
+    },
+    {
+      "id": "gal-socialmediatemplate-412",
+      "title": "Template Desain Social Media #2",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/2%20(5).png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/2%20(5).png"
+    },
+    {
+      "id": "gal-socialmediatemplate-413",
+      "title": "Template Desain Social Media #2",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/2%20(6).png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/2%20(6).png"
+    },
+    {
+      "id": "gal-socialmediatemplate-414",
+      "title": "Template Desain Social Media #2",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/2%20(7).png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/2%20(7).png"
+    },
+    {
+      "id": "gal-socialmediatemplate-415",
+      "title": "Template Desain Social Media #2",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/2.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/2.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-416",
+      "title": "Template Desain Social Media #20",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/20.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/20.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-417",
+      "title": "Template Desain Social Media #21",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/21.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/21.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-418",
+      "title": "Template Desain Social Media #22",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/22.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/22.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-419",
+      "title": "Template Desain Social Media #23",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/23.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/23.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-420",
+      "title": "Template Desain Social Media #24",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/24.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/24.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-421",
+      "title": "Template Desain Social Media #25",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/25.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/25.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-422",
+      "title": "Template Desain Social Media #26",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/26.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/26.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-423",
+      "title": "Template Desain Social Media #27",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/27.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/27.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-424",
+      "title": "Template Desain Social Media #28",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/28.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/28.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-425",
+      "title": "Template Desain Social Media #29",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/29.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/29.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-426",
+      "title": "Template Desain Social Media #3",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/3.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/3.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-427",
+      "title": "Template Desain Social Media #30",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/30.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/30.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-428",
+      "title": "Template Desain Social Media #31",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/31.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/31.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-429",
+      "title": "Template Desain Social Media #32",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/32.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/32.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-430",
+      "title": "Template Desain Social Media #33",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/33.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/33.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-431",
+      "title": "Template Desain Social Media #34",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/34.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/34.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-432",
+      "title": "Template Desain Social Media #35",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/35.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/35.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-433",
+      "title": "Template Desain Social Media #36",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/36.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/36.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-434",
+      "title": "Template Desain Social Media #37",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/37.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/37.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-435",
+      "title": "Template Desain Social Media #38",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/38.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/38.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-436",
+      "title": "Template Desain Social Media #39",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/39.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/39.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-437",
+      "title": "Template Desain Social Media #4",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/4.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/4.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-438",
+      "title": "Template Desain Social Media #40",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/40.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/40.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-439",
+      "title": "Template Desain Social Media #41",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/41.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/41.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-440",
+      "title": "Template Desain Social Media #42",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/42.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/42.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-441",
+      "title": "Template Desain Social Media #43",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/43.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/43.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-442",
+      "title": "Template Desain Social Media #44",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/44.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/44.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-443",
+      "title": "Template Desain Social Media #5",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/5.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/5.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-444",
+      "title": "Template Desain Social Media #6",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/6.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/6.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-445",
+      "title": "Template Desain Social Media #7",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/7.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/7.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-446",
+      "title": "Template Desain Social Media #8",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/8.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/8.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-447",
+      "title": "Template Desain Social Media #9",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/9.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/9.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-448",
+      "title": "Porfol1",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/PORFOL1.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/PORFOL1.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-449",
+      "title": "Porfol2",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/PORFOL2.png",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/PORFOL2.png"
+    },
+    {
+      "id": "gal-socialmediatemplate-450",
+      "title": "Template Desain Social Media #1",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/Slide1%20(2).PNG",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/Slide1%20(2).PNG"
+    },
+    {
+      "id": "gal-socialmediatemplate-451",
+      "title": "Template Desain Social Media #1",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/Slide1.PNG",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/Slide1.PNG"
+    },
+    {
+      "id": "gal-socialmediatemplate-452",
+      "title": "Template Desain Social Media #2",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/Slide2%20(2).PNG",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/Slide2%20(2).PNG"
+    },
+    {
+      "id": "gal-socialmediatemplate-453",
+      "title": "Template Desain Social Media #2",
+      "category": "Social Media",
+      "image": "/portfolio-assets/SOCIAL%20MEDIA%20TEMPLATE/Slide2.PNG",
+      "desc": "Template materi promosi visual feeds dan story media sosial yang estetik dan terstruktur.",
+      "thumb": "/portfolio-thumbs/SOCIAL%20MEDIA%20TEMPLATE/Slide2.PNG"
+    }
+  ]
+}
