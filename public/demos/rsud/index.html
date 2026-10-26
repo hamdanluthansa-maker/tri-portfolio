@@ -1,0 +1,967 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RSUD dr. Soedono Madiun | Rumah Sakit Rujukan Regional Jawa Timur</title>
+  <meta name="description" content="Website Resmi RSUD dr. Soedono Madiun - Rumah Sakit Umum Daerah Kelas B Pendidikan Provinsi Jawa Timur. Memberikan pelayanan kesehatan prima, modern, dan terpercaya.">
+  
+  <!-- Google Fonts: Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Top Emergency & Info Banner -->
+  <div class="top-bar">
+    <div class="container top-bar-content">
+      <div class="top-info-group">
+        <span class="badge-live"><span class="pulse-dot"></span> IGD SIAGA 24 JAM</span>
+        <a href="tel:0351464325" class="top-link">
+          <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/></svg>
+          Emergency: <strong>(0351) 464325</strong>
+        </a>
+        <span class="divider-v"></span>
+        <span class="top-address">
+          <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          Jl. Dr. Soetomo No. 59, Kartoharjo, Kota Madiun
+        </span>
+      </div>
+      <div class="top-actions">
+        <a href="#lokasi" class="top-nav-item">Petunjuk Arah</a>
+        <a href="mailto:rsu_soedonomdn@jatimprov.go.id" class="top-nav-item">Email Resmi</a>
+        <span class="top-pill">Pemprov Jatim</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Header & Navigation -->
+  <header class="site-header" id="header">
+    <div class="container nav-container">
+      <a href="#" class="brand-logo" aria-label="RSUD dr. Soedono Madiun">
+        <div class="brand-mark">
+          <svg viewBox="0 0 36 36" fill="currentColor">
+            <rect x="4" y="4" width="28" height="28" rx="8" fill="#0D9488"/>
+            <path d="M18 10v16M10 18h16" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <div class="brand-name">RSUD dr. SOEDONO</div>
+          <div class="brand-sub">KOTA MADIUN • JAWA TIMUR</div>
+        </div>
+      </a>
+
+      <!-- Desktop Nav -->
+      <nav class="main-nav" id="mainNav">
+        <ul class="nav-links">
+          <li><a href="#beranda" class="nav-link active">Beranda</a></li>
+          <li><a href="#layanan-unggulan" class="nav-link">Layanan Unggulan</a></li>
+          <li><a href="#fasilitas" class="nav-link">Fasilitas</a></li>
+          <li><a href="#jadwal-dokter" class="nav-link">Jadwal Dokter</a></li>
+          <li><a href="#alur-layanan" class="nav-link">Alur Pasien</a></li>
+          <li><a href="#lokasi" class="nav-link">Lokasi & Peta</a></li>
+        </ul>
+      </nav>
+
+      <div class="header-cta-group">
+        <a href="#jadwal-dokter" class="btn btn-outline">
+          <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+          Cari Dokter
+        </a>
+        <a href="#pendaftaran-modal" onclick="openModal('daftarModal')" class="btn btn-primary">
+          <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21H5a2 2 0 01-2-2V5a2 2 0 012-2h11l5 5v11a2 2 0 01-2 2z"/><polyline points="17 21 17 13 7 13 7 21"/><polyline points="7 3 7 8 15 8"/></svg>
+          Daftar Online
+        </a>
+        <button class="mobile-toggle" id="menuToggle" aria-label="Buka Menu">
+          <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero-section" id="beranda">
+    <div class="hero-backdrop"></div>
+    <div class="container hero-container">
+      <div class="hero-content">
+        <div class="hero-tag">
+          <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          Rumah Sakit Rujukan Regional Jatim Bagian Barat • Kelas B Pendidikan
+        </div>
+        <h1 class="hero-title">
+          Pelayanan Kesehatan <span class="text-highlight">Paripurna, Modern,</span> & Penuh Empati
+        </h1>
+        <p class="hero-desc">
+          RSUD dr. Soedono Madiun siap melayani masyarakat dengan teknologi medis mutakhir, 40+ dokter spesialis & subspesialis terkemuka, serta predikat Wilayah Birokrasi Bersih dan Melayani (WBBM).
+        </p>
+
+        <div class="hero-buttons">
+          <a href="#layanan-unggulan" class="btn btn-hero-primary">
+            Lihat 7 Layanan Unggulan
+            <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </a>
+          <a href="#lokasi" class="btn btn-hero-secondary">
+            <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            Petunjuk Arah & Peta
+          </a>
+        </div>
+
+        <!-- Trust Badges -->
+        <div class="trust-strip">
+          <div class="trust-item">
+            <svg class="flat-icon text-teal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            <span>Terakreditasi Paripurna KARS</span>
+          </div>
+          <div class="trust-item">
+            <svg class="flat-icon text-teal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+            <span>Predikat WBBM Kemenpan RB</span>
+          </div>
+          <div class="trust-item">
+            <svg class="flat-icon text-teal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/></svg>
+            <span>Melayani BPJS & Asuransi</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quick Action Floating Cards -->
+      <div class="hero-quick-card-wrapper">
+        <div class="quick-card-container">
+          <div class="quick-header">
+            <h3>Layanan Akses Cepat</h3>
+            <span class="subtext">Akses langsung fasilitas utama RSUD</span>
+          </div>
+
+          <a href="tel:0351464325" class="quick-link-box emergency-box">
+            <div class="icon-circle red-tint">
+              <svg class="flat-icon icon-red" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+            </div>
+            <div class="box-text">
+              <div class="box-title">Gawat Darurat & Ambulans</div>
+              <div class="box-sub">Hotline 24 Jam: (0351) 464325</div>
+            </div>
+            <svg class="flat-icon chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+          </a>
+
+          <a href="#jadwal-dokter" class="quick-link-box">
+            <div class="icon-circle teal-tint">
+              <svg class="flat-icon icon-teal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="8.5" cy="7" r="4"/><line x1="20" y1="8" x2="20" y2="14"/><line x1="23" y1="11" x2="17" y2="11"/></svg>
+            </div>
+            <div class="box-text">
+              <div class="box-title">Jadwal Praktik Spesialis</div>
+              <div class="box-sub">Cek dokter & poliklinik hari ini</div>
+            </div>
+            <svg class="flat-icon chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+          </a>
+
+          <a href="https://rssoedono.jatimprov.go.id" target="_blank" rel="noopener noreferrer" class="quick-link-box">
+            <div class="icon-circle blue-tint">
+              <svg class="flat-icon icon-blue" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+            </div>
+            <div class="box-text">
+              <div class="box-title">Portal Pendaftaran & Mobile JKN</div>
+              <div class="box-sub">Daftar online tanpa antre panjang</div>
+            </div>
+            <svg class="flat-icon chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+          </a>
+
+          <div class="bed-status-widget">
+            <div class="widget-row">
+              <div class="widget-left">
+                <svg class="flat-icon icon-teal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 4v16"/><path d="M2 8h18a2 2 0 012 2v10"/><path d="M2 17h20"/><circle cx="6" cy="11" r="2"/></svg>
+                <span>Ketersediaan Bed Rawat Inap</span>
+              </div>
+              <span class="live-tag">Updated</span>
+            </div>
+            <div class="bed-stats-grid">
+              <div class="bed-stat-pill">
+                <span class="bed-name">ICU / ICCU</span>
+                <span class="bed-num">Tersedia</span>
+              </div>
+              <div class="bed-stat-pill">
+                <span class="bed-name">Kelas VIP / VVIP</span>
+                <span class="bed-num">Tersedia</span>
+              </div>
+              <div class="bed-stat-pill">
+                <span class="bed-name">Kelas Standar</span>
+                <span class="bed-num">Tersedia</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Key Metrics Strip -->
+  <section class="stats-section">
+    <div class="container stats-grid">
+      <div class="stat-card">
+        <div class="stat-number">7</div>
+        <div class="stat-label">Layanan Medis Unggulan Utama</div>
+        <div class="stat-desc">Fokus rujukan multidisiplin Jawa Timur Barat</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">40+</div>
+        <div class="stat-label">Dokter Spesialis & Subspesialis</div>
+        <div class="stat-desc">Tenaga medis ahli berkompetensi tinggi</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">400+</div>
+        <div class="stat-label">Kapasitas Tempat Tidur</div>
+        <div class="stat-desc">Fasilitas rawat inap berstandar modern</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">24/7</div>
+        <div class="stat-label">Layanan Emergency & Diagnostik</div>
+        <div class="stat-desc">Siaga melayani kegawatdaruratan nonstop</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7 Layanan Unggulan -->
+  <section class="section service-section" id="layanan-unggulan">
+    <div class="container">
+      <div class="section-header text-center">
+        <span class="section-subtitle">PELAYANAN SPESIALISTIK RUJUKAN</span>
+        <h2 class="section-title">7 Layanan Unggulan RSUD dr. Soedono</h2>
+        <div class="title-underline"></div>
+        <p class="section-lead">
+          Sebagai RS Rujukan Regional Bakorwil I Madiun, kami menghadirkan 7 pilar layanan prioritas yang didukung dokter spesialis terpadu dan teknologi modern.
+        </p>
+      </div>
+
+      <div class="services-grid">
+        <!-- 1. Stroke Paripurna -->
+        <div class="service-card">
+          <div class="service-icon-box">
+            <svg class="flat-icon service-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M9.5 2A2.5 2.5 0 0112 4.5v15a2.5 2.5 0 01-4.96.44 2.5 2.5 0 01-2.96-3.08 3 3 0 01-.34-5.58 2.5 2.5 0 011.32-4.24 2.5 2.5 0 014.44-2.04"/>
+              <path d="M14.5 2A2.5 2.5 0 0012 4.5v15a2.5 2.5 0 004.96.44 2.5 2.5 0 002.96-3.08 3 3 0 00.34-5.58 2.5 2.5 0 00-1.32-4.24 2.5 2.5 0 00-4.44-2.04"/>
+            </svg>
+          </div>
+          <div class="service-badge">Unggulan 01</div>
+          <h3 class="service-title">Stroke Paripurna</h3>
+          <p class="service-desc">
+            Penanganan kegawatdaruratan stroke cepat dan terintegrasi melalui Stroke Unit terpadu, trombolisis dini, bedah saraf, serta neurorehabilitasi intensif.
+          </p>
+          <ul class="service-points">
+            <li>Unit Stroke 24 Jam dengan Golden Period</li>
+            <li>CT-Scan Otak Cepat & Neuro-Intervensi</li>
+            <li>Rehabilitasi Medik Pasca Stroke Komprehensif</li>
+          </ul>
+        </div>
+
+        <!-- 2. Bedah Minimal Invasif -->
+        <div class="service-card">
+          <div class="service-icon-box">
+            <svg class="flat-icon service-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="6" cy="6" r="3"/>
+              <circle cx="6" cy="18" r="3"/>
+              <line x1="20" y1="4" x2="8.12" y2="15.88"/>
+              <line x1="14.47" y1="14.48" x2="20" y2="20"/>
+              <line x1="8.12" y1="8.12" x2="12" y2="12"/>
+            </svg>
+          </div>
+          <div class="service-badge">Unggulan 02</div>
+          <h3 class="service-title">Bedah Minimal Invasif</h3>
+          <p class="service-desc">
+            Tindakan operasi canggih laparoskopi dan endoskopi dengan luka sayatan minimal, mengurangi risiko komplikasi dan mempercepat waktu pemulihan pasien.
+          </p>
+          <ul class="service-points">
+            <li>Bedah Laparoskopi Digestif & Urologi</li>
+            <li>Endoskopi Saluran Cerna Modern</li>
+            <li>Nyeri minimal & waktu rawat lebih singkat</li>
+          </ul>
+        </div>
+
+        <!-- 3. Pain Intervention -->
+        <div class="service-card">
+          <div class="service-icon-box">
+            <svg class="flat-icon service-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
+              <circle cx="12" cy="12" r="3"/>
+            </svg>
+          </div>
+          <div class="service-badge">Unggulan 03</div>
+          <h3 class="service-title">Pain Intervention (Nyeri)</h3>
+          <p class="service-desc">
+            Klinik manajemen nyeri kronis dan akut dengan metode intervensi presisi terpandu fluoroskopi/USG untuk membebaskan pasien dari keluhan nyeri berkepanjangan.
+          </p>
+          <ul class="service-points">
+            <li>Terapi Nyeri Tulang Belakang & Sendi</li>
+            <li>Injeksi Blok Saraf Intervensional</li>
+            <li>Paliatif Nyeri Pasien Onkologi / Kanker</li>
+          </ul>
+        </div>
+
+        <!-- 4. Estetika Medik -->
+        <div class="service-card">
+          <div class="service-icon-box">
+            <svg class="flat-icon service-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M12 2.69l5.66 5.66a8 8 0 11-11.31 0z"/>
+            </svg>
+          </div>
+          <div class="service-badge">Unggulan 04</div>
+          <h3 class="service-title">Estetika Medik & Kulit</h3>
+          <p class="service-desc">
+            Pelayanan kesehatan dan estetika kulit medis di bawah pengawasan langsung dokter spesialis dermatologi dan venereologi menggunakan standar klinis higienis.
+          </p>
+          <ul class="service-points">
+            <li>Dermatologi Kosmetik & Laser Medis</li>
+            <li>Perawatan Rejuvenasi & Masalah Pigmentasi</li>
+            <li>Penanganan Akne, Keloid & Dermatologi Klinis</li>
+          </ul>
+        </div>
+
+        <!-- 5. Infertilitas & Fetomaternal -->
+        <div class="service-card">
+          <div class="service-icon-box">
+            <svg class="flat-icon service-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+            </svg>
+          </div>
+          <div class="service-badge">Unggulan 05</div>
+          <h3 class="service-title">Infertilitas & Fetomaternal</h3>
+          <p class="service-desc">
+            Pusat rujukan terpadu kehamilan risiko tinggi (fetomaternal) serta konsultasi dan penanganan program kehamilan bagi pasangan dengan masalah infertilitas.
+          </p>
+          <ul class="service-points">
+            <li>USG 4D Fetomaternal Skrining Kongenital</li>
+            <li>Konseling & Program Infertilitas Pasutri</li>
+            <li>Perawatan Khusus Pre-eklamsia & Komplikasi</li>
+          </ul>
+        </div>
+
+        <!-- 6. Intensive Care -->
+        <div class="service-card">
+          <div class="service-icon-box">
+            <svg class="flat-icon service-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+            </svg>
+          </div>
+          <div class="service-badge">Unggulan 06</div>
+          <h3 class="service-title">Intensive Care Terpadu</h3>
+          <p class="service-desc">
+            Instalasi perawatan intensif terlengkap mencakup ICU, ICCU, PICU, dan NICU dengan ventilator mutakhir dan pemantauan hemodinamik 24 jam nonstop.
+          </p>
+          <ul class="service-points">
+            <li>ICU (Intensive Care Unit) Dewasa</li>
+            <li>ICCU untuk Pasien Jantung Kritis</li>
+            <li>NICU & PICU untuk Neonatus & Bayi Kritis</li>
+          </ul>
+        </div>
+
+        <!-- 7. Diagnostic Medic -->
+        <div class="service-card highlight-card">
+          <div class="service-icon-box">
+            <svg class="flat-icon service-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"/>
+              <path d="M12 2a14.5 14.5 0 000 20 14.5 14.5 0 000-20"/>
+              <path d="M2 12h20"/>
+            </svg>
+          </div>
+          <div class="service-badge">Unggulan 07</div>
+          <h3 class="service-title">Diagnostic Medic Canggih</h3>
+          <p class="service-desc">
+            Pusat diagnostik dengan teknologi radiologi resolusi tinggi, MRI 1.5 Tesla, Multi-Slice CT-Scan, serta laboratorium terakreditasi untuk ketepatan diagnosis medis.
+          </p>
+          <ul class="service-points">
+            <li>MRI & CT-Scan Multi Slices Cepat</li>
+            <li>Cath Lab Katerisasi Jantung & Pembuluh Darah</li>
+            <li>Laboratorium Patologi Anatomi & Mikrobiologi</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Fasilitas & Penunjang Medis -->
+  <section class="section bg-light" id="fasilitas">
+    <div class="container">
+      <div class="section-header text-center">
+        <span class="section-subtitle">SARANA PRASARANA MODERN</span>
+        <h2 class="section-title">Fasilitas & Penunjang Medis Lengkap</h2>
+        <div class="title-underline"></div>
+        <p class="section-lead">
+          Kenyamanan dan keselamatan pasien adalah prioritas kami. Didukung infrastruktur rumah sakit yang higienis dan terstandar ISO.
+        </p>
+      </div>
+
+      <div class="facilities-grid">
+        <div class="facility-item">
+          <div class="fac-icon">
+            <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 12h10M12 7v10"/></svg>
+          </div>
+          <h4>IGD Siaga 24 Jam</h4>
+          <p>Pelayanan triase cepat tanggap dengan dokter jaga spesialis emergency dan armada ambulans siaga.</p>
+        </div>
+
+        <div class="facility-item">
+          <div class="fac-icon">
+            <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+          </div>
+          <h4>Instalasi Hemodialisis</h4>
+          <p>Unit cuci darah modern dengan puluhan mesin dialisis berteknologi tinggi dan tenaga perawat bersertifikasi.</p>
+        </div>
+
+        <div class="facility-item">
+          <div class="fac-icon">
+            <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 16V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4a2 2 0 002 0l7-4A2 2 0 0021 16z"/></svg>
+          </div>
+          <h4>Cath Lab Kardiovaskular</h4>
+          <p>Laboratorium kateterisasi jantung intervensi untuk tindakan pasang ring (stent) dan angiografi jantung.</p>
+        </div>
+
+        <div class="facility-item">
+          <div class="fac-icon">
+            <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+          </div>
+          <h4>Laboratorium 24 Jam</h4>
+          <p>Pemeriksaan patologi klinik, kimia darah, hematologi, dan mikrobiologi dengan hasil cepat dan akurat.</p>
+        </div>
+
+        <div class="facility-item">
+          <div class="fac-icon">
+            <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          </div>
+          <h4>Farmasi & Apotek 24 Jam</h4>
+          <p>Penyediaan obat resep rawat jalan, rawat inap, dan emergency dengan sistem pemantauan farmasi klinis.</p>
+        </div>
+
+        <div class="facility-item">
+          <div class="fac-icon">
+            <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8h1a4 4 0 010 8h-1"/><path d="M2 8h16v9a4 4 0 01-4 4H6a4 4 0 01-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/></svg>
+          </div>
+          <h4>Rehabilitasi Medik & Fisioterapi</h4>
+          <p>Pemulihan gerak, fungsi syaraf, terapi okupasi, dan terapi wicara bagi pasien pasca trauma maupun stroke.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Dokter & Jadwal Praktik Interaktif -->
+  <section class="section" id="jadwal-dokter">
+    <div class="container">
+      <div class="section-header text-center">
+        <span class="section-subtitle">DOKTER AHLI & SPESIALIS</span>
+        <h2 class="section-title">Temukan Dokter & Jadwal Praktik</h2>
+        <div class="title-underline"></div>
+        <p class="section-lead">
+          Pilih klinik spesialisasi atau cari nama dokter untuk memeriksa jadwal konsultasi poliklinik rawat jalan.
+        </p>
+      </div>
+
+      <!-- Search & Filter Controls -->
+      <div class="doctor-filter-box">
+        <div class="search-input-wrap">
+          <svg class="flat-icon search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+          <input type="text" id="doctorSearch" placeholder="Cari nama dokter atau keahlian spesialis..." onkeyup="filterDoctors()">
+        </div>
+        <div class="filter-pills">
+          <button class="filter-pill active" onclick="setSpecialtyFilter('all', this)">Semua Poliklinik</button>
+          <button class="filter-pill" onclick="setSpecialtyFilter('saraf', this)">Saraf & Stroke</button>
+          <button class="filter-pill" onclick="setSpecialtyFilter('bedah', this)">Spesialis Bedah</button>
+          <button class="filter-pill" onclick="setSpecialtyFilter('jantung', this)">Jantung & Pembuluh</button>
+          <button class="filter-pill" onclick="setSpecialtyFilter('obgyn', this)">Kebidanan & Kandungan</button>
+          <button class="filter-pill" onclick="setSpecialtyFilter('kulit', this)">Kulit & Estetika</button>
+          <button class="filter-pill" onclick="setSpecialtyFilter('dalam', this)">Penyakit Dalam</button>
+        </div>
+      </div>
+
+      <!-- Doctors Grid -->
+      <div class="doctors-grid" id="doctorsGrid">
+        <!-- Dokter 1 -->
+        <div class="doctor-card" data-specialty="saraf">
+          <div class="doctor-avatar">
+            <svg class="flat-icon doc-avatar-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+          </div>
+          <div class="doc-badge">Spesialis Saraf (Neurologi)</div>
+          <h4 class="doctor-name">dr. H. Hendra Sukma, Sp.N (K)</h4>
+          <p class="doctor-sub">Konsultan Neurovaskular & Stroke Paripurna</p>
+          <div class="schedule-box">
+            <div class="sched-row">
+              <svg class="flat-icon sched-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              <span>Senin, Rabu, Jumat</span>
+            </div>
+            <div class="sched-row">
+              <svg class="flat-icon sched-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              <span>08.30 - 13.00 WIB</span>
+            </div>
+          </div>
+          <button class="btn btn-doc-action" onclick="bookDoctor('dr. H. Hendra Sukma, Sp.N (K)', 'Poli Saraf')">Daftar Antrean</button>
+        </div>
+
+        <!-- Dokter 2 -->
+        <div class="doctor-card" data-specialty="bedah">
+          <div class="doctor-avatar">
+            <svg class="flat-icon doc-avatar-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+          </div>
+          <div class="doc-badge">Spesialis Bedah Umum</div>
+          <h4 class="doctor-name">dr. Arif Wicaksono, Sp.B, FInaCS</h4>
+          <p class="doctor-sub">Bedah Laparoskopi & Minimal Invasif</p>
+          <div class="schedule-box">
+            <div class="sched-row">
+              <svg class="flat-icon sched-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              <span>Selasa, Kamis, Sabtu</span>
+            </div>
+            <div class="sched-row">
+              <svg class="flat-icon sched-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              <span>09.00 - 12.30 WIB</span>
+            </div>
+          </div>
+          <button class="btn btn-doc-action" onclick="bookDoctor('dr. Arif Wicaksono, Sp.B, FInaCS', 'Poli Bedah')">Daftar Antrean</button>
+        </div>
+
+        <!-- Dokter 3 -->
+        <div class="doctor-card" data-specialty="jantung">
+          <div class="doctor-avatar">
+            <svg class="flat-icon doc-avatar-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+          </div>
+          <div class="doc-badge">Jantung & Pembuluh Darah</div>
+          <h4 class="doctor-name">dr. Rian Pradana, Sp.JP (K)</h4>
+          <p class="doctor-sub">Spesialis Intervensi Kardiovaskular (Cathlab)</p>
+          <div class="schedule-box">
+            <div class="sched-row">
+              <svg class="flat-icon sched-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              <span>Senin s/d Kamis</span>
+            </div>
+            <div class="sched-row">
+              <svg class="flat-icon sched-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              <span>08.00 - 12.00 WIB</span>
+            </div>
+          </div>
+          <button class="btn btn-doc-action" onclick="bookDoctor('dr. Rian Pradana, Sp.JP (K)', 'Poli Jantung')">Daftar Antrean</button>
+        </div>
+
+        <!-- Dokter 4 -->
+        <div class="doctor-card" data-specialty="obgyn">
+          <div class="doctor-avatar">
+            <svg class="flat-icon doc-avatar-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+          </div>
+          <div class="doc-badge">Obstetri & Ginekologi</div>
+          <h4 class="doctor-name">dr. Siti Rahmawati, Sp.OG (K-KFM)</h4>
+          <p class="doctor-sub">Subspesialis Fetomaternal & Kehamilan Risiko Tinggi</p>
+          <div class="schedule-box">
+            <div class="sched-row">
+              <svg class="flat-icon sched-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              <span>Senin, Rabu, Kamis</span>
+            </div>
+            <div class="sched-row">
+              <svg class="flat-icon sched-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              <span>08.30 - 12.30 WIB</span>
+            </div>
+          </div>
+          <button class="btn btn-doc-action" onclick="bookDoctor('dr. Siti Rahmawati, Sp.OG (K-KFM)', 'Poli Obgyn')">Daftar Antrean</button>
+        </div>
+
+        <!-- Dokter 5 -->
+        <div class="doctor-card" data-specialty="kulit">
+          <div class="doctor-avatar">
+            <svg class="flat-icon doc-avatar-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+          </div>
+          <div class="doc-badge">Dermatologi & Venereologi</div>
+          <h4 class="doctor-name">dr. Dian Kartika, Sp.DVE, FINSDV</h4>
+          <p class="doctor-sub">Pakar Estetika Medik & Dermatologi Klinis</p>
+          <div class="schedule-box">
+            <div class="sched-row">
+              <svg class="flat-icon sched-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              <span>Senin s/d Jumat</span>
+            </div>
+            <div class="sched-row">
+              <svg class="flat-icon sched-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              <span>09.00 - 13.00 WIB</span>
+            </div>
+          </div>
+          <button class="btn btn-doc-action" onclick="bookDoctor('dr. Dian Kartika, Sp.DVE, FINSDV', 'Poli Kulit & Kelamin')">Daftar Antrean</button>
+        </div>
+
+        <!-- Dokter 6 -->
+        <div class="doctor-card" data-specialty="dalam">
+          <div class="doctor-avatar">
+            <svg class="flat-icon doc-avatar-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+          </div>
+          <div class="doc-badge">Penyakit Dalam (Internis)</div>
+          <h4 class="doctor-name">dr. Bambang Irawan, Sp.PD, K-GH</h4>
+          <p class="doctor-sub">Konsultan Ginjal Hipertensi & Hemodialisis</p>
+          <div class="schedule-box">
+            <div class="sched-row">
+              <svg class="flat-icon sched-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              <span>Selasa, Kamis, Jumat</span>
+            </div>
+            <div class="sched-row">
+              <svg class="flat-icon sched-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              <span>08.00 - 12.00 WIB</span>
+            </div>
+          </div>
+          <button class="btn btn-doc-action" onclick="bookDoctor('dr. Bambang Irawan, Sp.PD, K-GH', 'Poli Penyakit Dalam')">Daftar Antrean</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Alur Pendaftaran & Panduan Pasien -->
+  <section class="section bg-light" id="alur-layanan">
+    <div class="container">
+      <div class="section-header text-center">
+        <span class="section-subtitle">KEMUDAHAN AKSES</span>
+        <h2 class="section-title">Alur Pendaftaran Pasien</h2>
+        <div class="title-underline"></div>
+        <p class="section-lead">
+          Panduan langkah demi langkah untuk pendaftaran pasien rawat jalan, baik pengguna BPJS Kesehatan maupun pasien umum/asuransi.
+        </p>
+      </div>
+
+      <!-- Tab Buttons -->
+      <div class="tab-controls">
+        <button class="tab-btn active" onclick="switchTab('bpjs', this)">Pasien BPJS Kesehatan</button>
+        <button class="tab-btn" onclick="switchTab('umum', this)">Pasien Umum / Asuransi Swasta</button>
+        <button class="tab-btn" onclick="switchTab('igd', this)">Pasien Gawat Darurat (IGD)</button>
+      </div>
+
+      <!-- Tab Contents -->
+      <div class="tab-panels">
+        <!-- BPJS -->
+        <div class="tab-panel active" id="tab-bpjs">
+          <div class="steps-grid">
+            <div class="step-card">
+              <div class="step-badge">1</div>
+              <h4>Rujukan FKTP</h4>
+              <p>Mendapatkan surat rujukan berjenjang dari Puskesmas atau Klinik Pratama / Dokter Keluarga via PCare.</p>
+            </div>
+            <div class="step-card">
+              <div class="step-badge">2</div>
+              <h4>Daftar Mobile JKN</h4>
+              <p>Buka aplikasi Mobile JKN, pilih menu pendaftaran antrean faskes rujukan tingkat lanjut di RSUD dr. Soedono.</p>
+            </div>
+            <div class="step-card">
+              <div class="step-badge">3</div>
+              <h4>Check-in Mesin Mandiri</h4>
+              <p>Tiba di rumah sakit 30 menit sebelum jadwal, scan QR Code atau NIK di Anjungan Mandiri (APM) Lobby Utama.</p>
+            </div>
+            <div class="step-card">
+              <div class="step-badge">4</div>
+              <h4>Pelayanan di Poliklinik</h4>
+              <p>Menuju ruang tunggu poli spesialis terkait untuk pemeriksaan dokter, tindakan, dan pengambilan obat di farmasi.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- UMUM -->
+        <div class="tab-panel" id="tab-umum">
+          <div class="steps-grid">
+            <div class="step-card">
+              <div class="step-badge">1</div>
+              <h4>Registrasi Mandiri / Online</h4>
+              <p>Daftar via web resmi RSUD dr. Soedono atau datang langsung ke Loket Pendaftaran Pasien Umum.</p>
+            </div>
+            <div class="step-card">
+              <div class="step-badge">2</div>
+              <h4>Konfirmasi Asuransi / Kasir</h4>
+              <p>Pasien asuransi rekanan menyerahkan kartu asuransi untuk surat jaminan, atau melakukan registrasi tarif umum.</p>
+            </div>
+            <div class="step-card">
+              <div class="step-badge">3</div>
+              <h4>Pemeriksaan Dokter Spesialis</h4>
+              <p>Pemeriksaan klinis mendalam oleh dokter spesialis pilihan di Poliklinik Reguler maupun Poliklinik Eksekutif.</p>
+            </div>
+            <div class="step-card">
+              <div class="step-badge">4</div>
+              <h4>Farmasi & Pembayaran</h4>
+              <p>Penyelesaian administrasi/klaim dan pengambilan resep obat dengan layanan farmasi terintegrasi.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- IGD -->
+        <div class="tab-panel" id="tab-igd">
+          <div class="steps-grid">
+            <div class="step-card">
+              <div class="step-badge">1</div>
+              <h4>Kedatangan & Triase Cepat</h4>
+              <p>Pasien langsung diterima tim medis IGD di ruang triase untuk penentuan tingkat kegawatan (Merah, Kuning, Hijau).</p>
+            </div>
+            <div class="step-card">
+              <div class="step-badge">2</div>
+              <h4>Stabilisasi & Tindakan Kritis</h4>
+              <p>Penanganan penyelamatan nyawa (life-saving) diprioritaskan segera tanpa menunggu kelengkapan administrasi.</p>
+            </div>
+            <div class="step-card">
+              <div class="step-badge">3</div>
+              <h4>Pemeriksaan Penunjang Cito</h4>
+              <p>Pemeriksaan laboratorium darurat, CT-Scan, atau X-Ray sesuai instruksi dokter spesialis emergency.</p>
+            </div>
+            <div class="step-card">
+              <div class="step-badge">4</div>
+              <h4>Rawat Inap / ICU / Pemulangan</h4>
+              <p>Penentuan tindak lanjut apakah pasien memerlukan rawat inap, tindakan operasi darurat, ICU, atau rawat jalan.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Peta Lokasi & Informasi Kontak -->
+  <section class="section location-section" id="lokasi">
+    <div class="container">
+      <div class="section-header text-center">
+        <span class="section-subtitle">AKSES MUDAH & STRATEGIS</span>
+        <h2 class="section-title">Lokasi & Petunjuk Arah</h2>
+        <div class="title-underline"></div>
+        <p class="section-lead">
+          RSUD dr. Soedono terletak di pusat Kota Madiun dengan akses transportasi yang sangat mudah dijangkau dari berbagai wilayah Jawa Timur Barat.
+        </p>
+      </div>
+
+      <div class="location-grid">
+        <!-- Interactive Map Container -->
+        <div class="map-card">
+          <div class="map-frame-wrapper">
+            <!-- Google Maps Embed directly at RSUD Dr. Soedono Madiun coordinates -->
+            <iframe 
+              title="Peta Lokasi RSUD dr. Soedono Madiun"
+              src="https://maps.google.com/maps?q=-7.6264716,111.5244077&hl=id&z=16&output=embed" 
+              class="map-iframe" 
+              loading="lazy" 
+              allowfullscreen>
+            </iframe>
+          </div>
+          <div class="map-action-bar">
+            <div class="map-meta">
+              <svg class="flat-icon icon-teal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+              <span>Koordinat: -7.6264716, 111.5244077</span>
+            </div>
+            <a 
+              href="https://www.google.com/maps/place/RSUD+dr.+Soedono+Madiun/@-7.6264709,111.5038061,14z/data=!4m6!3m5!1s0x2e79bef7c9acd687:0xaf87ae42883dc4b9!8m2!3d-7.6264716!4d111.5244077!16s%2Fg%2F1hm6hjm_0?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              class="btn btn-maps">
+              <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="3 11 22 2 13 21 11 13 3 11"/></svg>
+              Buka di Google Maps
+            </a>
+          </div>
+        </div>
+
+        <!-- Contact & Accessibility Details -->
+        <div class="contact-info-card">
+          <h3 class="contact-card-title">Informasi Resmi Rumah Sakit</h3>
+
+          <div class="info-item">
+            <div class="info-icon">
+              <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            </div>
+            <div class="info-text">
+              <div class="info-label">Alamat Lengkap</div>
+              <div class="info-val">Jl. Dr. Soetomo No. 59, Kel. Kartoharjo, Kec. Kartoharjo, Kota Madiun, Jawa Timur 63117</div>
+            </div>
+          </div>
+
+          <div class="info-item">
+            <div class="info-icon">
+              <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/></svg>
+            </div>
+            <div class="info-text">
+              <div class="info-label">Telepon & Hotline IGD</div>
+              <div class="info-val">
+                <strong>(0351) 464325</strong> / <strong>(0351) 464326</strong><br>
+                Hotline Khusus: (0351) 454657
+              </div>
+            </div>
+          </div>
+
+          <div class="info-item">
+            <div class="info-icon">
+              <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            </div>
+            <div class="info-text">
+              <div class="info-label">Surat Elektronik (Email)</div>
+              <div class="info-val"><a href="mailto:rsu_soedonomdn@jatimprov.go.id">rsu_soedonomdn@jatimprov.go.id</a></div>
+            </div>
+          </div>
+
+          <div class="info-item">
+            <div class="info-icon">
+              <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg>
+            </div>
+            <div class="info-text">
+              <div class="info-label">Situs Web Resmi</div>
+              <div class="info-val"><a href="https://rssoedono.jatimprov.go.id" target="_blank" rel="noopener noreferrer">rssoedono.jatimprov.go.id</a></div>
+            </div>
+          </div>
+
+          <!-- Transport Highlights -->
+          <div class="transport-tips">
+            <div class="tip-heading">Aksesibilitas & Moda Transportasi:</div>
+            <ul class="tip-list">
+              <li>± 5 Menit dari Alun-Alun Kota Madiun</li>
+              <li>± 7 Menit dari Stasiun Kereta Api Madiun (Madiun Railway Station)</li>
+              <li>Tersedia area parkir terintegrasi mobil & motor yang tertib & teratur</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Janji Pelayanan & Integritas -->
+  <section class="section commitment-section">
+    <div class="container text-center">
+      <div class="commitment-card">
+        <div class="badge-pill">MAKLUMAT PELAYANAN</div>
+        <h3 class="commitment-title">"Melayani dengan Hati, Profesional, dan Berintegritas"</h3>
+        <p class="commitment-desc">
+          Kami segenap civitas hospitalia RSUD dr. Soedono Madiun berikrar dan berkomitmen untuk memberikan pelayanan kesehatan berkualitas prima tanpa diskriminasi, menjunjung tinggi keselamatan pasien, serta menolak segala bentuk gratifikasi.
+        </p>
+        <div class="wb-seal">
+          <svg class="flat-icon icon-teal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/></svg>
+          <span>Wilayah Bebas Korupsi & Birokrasi Bersih Melayani (WBK - WBBM)</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-top">
+      <div class="footer-col col-brand">
+        <div class="footer-logo">
+          <div class="brand-mark small">
+            <svg viewBox="0 0 36 36" fill="currentColor">
+              <rect x="4" y="4" width="28" height="28" rx="8" fill="#0D9488"/>
+              <path d="M18 10v16M10 18h16" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round"/>
+            </svg>
+          </div>
+          <span class="footer-brand-title">RSUD dr. SOEDONO MADIUN</span>
+        </div>
+        <p class="footer-about">
+          Rumah Sakit Umum Daerah Kelas B Pendidikan milik Pemerintah Provinsi Jawa Timur. Menjadi rumah sakit rujukan terpercaya di Jawa Timur bagian barat dengan standar mutu nasional.
+        </p>
+        <div class="social-links">
+          <a href="#" aria-label="Facebook" class="social-btn">
+            <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+          </a>
+          <a href="#" aria-label="Instagram" class="social-btn">
+            <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+          </a>
+          <a href="#" aria-label="YouTube" class="social-btn">
+            <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22.54 6.42a2.78 2.78 0 00-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 00-1.94 2A29 29 0 001 11.75a29 29 0 00.46 5.33A2.78 2.78 0 003.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 001.94-2 29 29 0 00.46-5.25 29 29 0 00-.46-5.33z"/><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"/></svg>
+          </a>
+        </div>
+      </div>
+
+      <div class="footer-col">
+        <h4 class="footer-title">7 Layanan Unggulan</h4>
+        <ul class="footer-menu">
+          <li><a href="#layanan-unggulan">Stroke Paripurna</a></li>
+          <li><a href="#layanan-unggulan">Bedah Minimal Invasif</a></li>
+          <li><a href="#layanan-unggulan">Pain Intervention</a></li>
+          <li><a href="#layanan-unggulan">Estetika Medik & Dermatologi</a></li>
+          <li><a href="#layanan-unggulan">Infertilitas & Fetomaternal</a></li>
+          <li><a href="#layanan-unggulan">Intensive Care Unit (ICU/PICU/NICU)</a></li>
+          <li><a href="#layanan-unggulan">Diagnostic Medic (MRI & CT-Scan)</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4 class="footer-title">Informasi Pasien</h4>
+        <ul class="footer-menu">
+          <li><a href="#alur-layanan">Alur Pasien BPJS Kesehatan</a></li>
+          <li><a href="#alur-layanan">Pasien Umum & Asuransi</a></li>
+          <li><a href="#jadwal-dokter">Jadwal Poliklinik Spesialis</a></li>
+          <li><a href="#fasilitas">Layanan Hemodialisis</a></li>
+          <li><a href="#fasilitas">Laboratorium & Radiologi</a></li>
+          <li><a href="#lokasi">Peta & Transportasi</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4 class="footer-title">Kontak Darurat</h4>
+        <div class="footer-contact-box">
+          <div class="f-contact-line">
+            <span class="f-label">IGD & Ambulans:</span>
+            <span class="f-num red-text">(0351) 464325</span>
+          </div>
+          <div class="f-contact-line">
+            <span class="f-label">Sentral Telepon:</span>
+            <span class="f-num">(0351) 464326</span>
+          </div>
+          <div class="f-contact-line">
+            <span class="f-label">WhatsApp Informasi:</span>
+            <span class="f-num">0811-3011-444</span>
+          </div>
+          <div class="f-contact-line">
+            <span class="f-label">Jam Operasional Poliklinik:</span>
+            <span class="f-num">Senin - Jumat: 07.30 - 14.00</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <div class="container footer-bottom-content">
+        <p>© 2026 RSUD dr. Soedono Madiun - Pemerintah Provinsi Jawa Timur. Hak Cipta Dilindungi.</p>
+        <div class="footer-sublinks">
+          <a href="#">Kebijakan Privasi</a>
+          <span class="bullet">•</span>
+          <a href="#">Standar Pelayanan</a>
+          <span class="bullet">•</span>
+          <a href="#lokasi">Peta Lokasi</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Floating Quick Action Buttons -->
+  <div class="floating-fab-group">
+    <a href="tel:0351464325" class="fab-btn fab-emergency" title="Panggil IGD 24 Jam">
+      <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/></svg>
+      <span class="fab-label">IGD (0351) 464325</span>
+    </a>
+    <a href="#beranda" class="fab-btn fab-top" id="backToTop" title="Kembali ke atas">
+      <svg class="flat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="18 15 12 9 6 15"/></svg>
+    </a>
+  </div>
+
+  <!-- Interactive Modal for Online Registration -->
+  <div class="modal-overlay" id="daftarModal">
+    <div class="modal-box">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <svg class="flat-icon icon-teal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          <h3>Pendaftaran Pasien Online</h3>
+        </div>
+        <button class="modal-close" onclick="closeModal('daftarModal')" aria-label="Tutup Modal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-note">Silakan pilih jalur pendaftaran poliklinik rawat jalan RSUD dr. Soedono Madiun:</p>
+        
+        <div class="reg-options">
+          <div class="reg-option-card">
+            <div class="reg-opt-header">
+              <svg class="flat-icon icon-teal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+              <h4>Pasien BPJS Kesehatan</h4>
+            </div>
+            <p>Pendaftaran antrean online praktis melalui aplikasi Mobile JKN (Faskes Rujukan RSUD dr. Soedono).</p>
+            <a href="https://rssoedono.jatimprov.go.id" target="_blank" rel="noopener noreferrer" class="btn btn-outline-full">Buka Panduan Mobile JKN</a>
+          </div>
+
+          <div class="reg-option-card">
+            <div class="reg-opt-header">
+              <svg class="flat-icon icon-teal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+              <h4>Pasien Mandiri / Umum</h4>
+            </div>
+            <p>Pendaftaran langsung ke loket rawat jalan atau melalui sistem web registrasi mandiri.</p>
+            <button class="btn btn-primary-full" onclick="alert('Anda akan diarahkan ke formulir registrasi rawat jalan RSUD dr. Soedono Madiun.'); closeModal('daftarModal');">Lanjut Registrasi</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="script.js"></script>
+</body>
+</html>

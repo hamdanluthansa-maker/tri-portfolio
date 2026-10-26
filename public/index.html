@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TRI HAMDANI — Graphic Designer | Vibe Coder Portfolio</title>
+  <meta name="description" content="Portofolio resmi Tri Hamdani — Graphic Designer | Vibe Coder asal Madiun. Memadukan pengalaman desain 12+ tahun dengan kekuatan Vibe Coding AI.">
+  <meta name="theme-color" content="#090E0B">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/favicon.png">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="vibe-dark-theme">
+
+  <!-- Cyberpunk Hexagon Grid & Particle Background Canvas -->
+  <canvas id="bgCanvas" class="site-bg-canvas"></canvas>
+
+  <!-- Top Floating Header Bar -->
+  <header class="top-nav-wrapper">
+    <div class="nav-container">
+      <a href="#hero" class="brand-logo">
+        <span class="brand-avatar-mini">
+          <img src="/assets/cursor_avatar.svg" alt="Tri Hamdani" id="navAvatar">
+        </span>
+        <div class="brand-text">
+          <span class="brand-name" id="navBrandName">TRI HAMDANI</span>
+          <span class="brand-role" id="navBrandRole">Graphic Designer | Vibe Coder</span>
+        </div>
+      </a>
+
+      <!-- Quick Nav Links -->
+      <nav class="nav-pill-group">
+        <a href="#tentang" class="nav-link-pill active" data-nav="tentang">Tentang</a>
+        <a href="#vibe-coding" class="nav-link-pill" data-nav="vibe-coding">Vibe Coding</a>
+        <a href="#projects" class="nav-link-pill" data-nav="projects">Proyek</a>
+        <a href="#pengalaman" class="nav-link-pill" data-nav="pengalaman">Pengalaman</a>
+        <a href="#galeri" class="nav-link-pill" data-nav="galeri">Galeri</a>
+      </nav>
+
+      <!-- Action Buttons -->
+      <div class="nav-actions">
+        <a href="https://wa.me/6285735851739" target="_blank" class="btn-pill-upload" title="Kontak WhatsApp">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981z"/></svg>
+          <span>Kontak Saya</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="page-container">
+
+    <!-- HERO SECTION (Editorial Center Cutout & Distributed Typography) -->
+    <section id="hero" class="hero-poster-section">
+
+      <!-- Main Stage Grid (Left Text, Center Cutout, Right Punchline & Metrics) -->
+      <div class="hero-poster-stage">
+
+        <!-- SISI KIRI FOTO -->
+        <div class="hero-left-column">
+          <div class="hero-badge-pill">
+            <span class="pulse-lime"></span>
+            <span id="heroBadge">Vibe Coding • AI Prototyper</span>
+          </div>
+
+          <div class="hero-identity-group">
+            <span class="hero-script-greeting">Halo, Saya</span>
+            <h1 class="hero-giant-name" id="profileName">TRI HAMDANI</h1>
+            <div class="hero-role-accent" id="profileRole">Graphic Designer | Vibe Coder</div>
+          </div>
+
+          <!-- Tagline Left: Dua tangan, satu laptop + Skill Vibe Coding & Desain -->
+          <div class="hero-tagline-left">
+            <div class="hero-tagline-phrase" id="taglinePrefix">Dua tangan, satu laptop,</div>
+            <div class="hero-tagline-highlight">
+              <span class="lime-highlight-box" id="taglineHighlight">Skill Vibe Coding &amp; Desain</span>
+            </div>
+          </div>
+
+          <p class="hero-bio-compact" id="heroSubheadline">
+            Menggabungkan rasa seni desain grafis 12+ tahun dengan kecepatan Vibe Coding AI untuk membangun aplikasi web modern, game interaktif, sistem video otomatis, dan konten kreatif berdampak tinggi.
+          </p>
+
+          <!-- Contact & Action Chips -->
+          <div class="hero-action-row">
+            <a href="https://wa.me/6285735851739" target="_blank" class="hero-chip-btn whatsapp" id="waLink">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981z"/></svg>
+              <span id="contactPhone">+62 857-3585-1739</span>
+            </a>
+            <a href="mailto:hamdan.luthansa@gmail.com" class="hero-chip-btn" id="mailLink">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+              <span id="contactEmail">Email</span>
+            </a>
+            <a href="https://instagram.com/dnny.roam404" target="_blank" class="hero-chip-btn" id="igLink">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+              <span id="contactIg">Instagram</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- TENGAH: FOTO CUTOUT BERDIRI TANPA BACKGROUND -->
+        <div class="hero-center-column">
+          <div class="hero-cutout-container">
+            <div class="hero-ambient-glow"></div>
+            <img src="/assets/tri_hero_cutout.png" alt="Tri Hamdani Graphic Designer | Vibe Coder" class="hero-center-cutout" id="heroCutoutImg">
+          </div>
+        </div>
+
+        <!-- SISI KANAN FOTO -->
+        <div class="hero-right-column">
+          <!-- Tagline Right: Bikin Ide Gila Jadi Nyata! -->
+          <div class="hero-tagline-right">
+            <span class="sparkle-star">✦</span>
+            <h2 class="hero-punchline-text" id="taglineSuffix">Bikin Ide Gila Jadi Nyata!</h2>
+          </div>
+
+          <!-- Stacked Vertical Metrics (Exact Match with Reference Right Side) -->
+          <div class="hero-metrics-vertical" id="statsContainer">
+            <div class="metric-vertical-item">
+              <span class="metric-huge-number">12+</span>
+              <span class="metric-caption">TAHUN PENGALAMAN DESAIN &amp; KREATIF</span>
+            </div>
+            <div class="metric-vertical-item">
+              <span class="metric-huge-number">50+</span>
+              <span class="metric-caption">PROYEK &amp; KARYA DIGITAL SELESAI</span>
+            </div>
+            <div class="metric-vertical-item">
+              <span class="metric-huge-number">10x</span>
+              <span class="metric-caption">KECEPATAN RAPID VIBE CODING</span>
+            </div>
+          </div>
+
+          <!-- Numbered Navigation Pills (Right Column Bottom) -->
+          <div class="hero-nav-pill-group">
+            <a href="#tentang" class="hero-sub-pill active">
+              <span class="sub-num">01</span>
+              <span>Profil</span>
+            </a>
+            <a href="#vibe-coding" class="hero-sub-pill">
+              <span class="sub-num">02</span>
+              <span>Skill</span>
+            </a>
+            <a href="#projects" class="hero-sub-pill">
+              <span class="sub-num">03</span>
+              <span>Proyek</span>
+            </a>
+            <a href="#pengalaman" class="hero-sub-pill">
+              <span class="sub-num">04</span>
+              <span>Rekam Jejak</span>
+            </a>
+            <a href="#galeri" class="hero-sub-pill">
+              <span class="sub-num">05</span>
+              <span>Galeri</span>
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- SECTION 01: TENTANG SAYA & BACKGROUND -->
+    <section id="tentang" class="content-section">
+      <div class="section-badge-header">
+        <span class="section-tag-num">01 / PROFIL</span>
+        <h2 class="section-title">Tentang Saya & Dedikasi</h2>
+      </div>
+
+      <div class="about-grid">
+        <div class="about-card-main">
+          <h3 class="about-heading-accent">Kreator Multidimensi dengan Dedikasi Penuh</h3>
+          <p class="about-body-text" id="aboutLongText">
+            Lahir di Madiun, 23 Oktober 1990. Berangkat dari latar belakang Desain Grafis & Komputer di Wearnes Education Center (2009-2010), saya mengasah keahlian visual selama lebih dari 12 tahun. Kini, dengan mengadopsi Vibe Coding, saya mampu mengubah konsep abstrak langsung menjadi website siap pakai, game interaktif, dan video terotomatisasi.
+          </p>
+          <div class="about-quote-box">
+            <svg class="quote-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z"/></svg>
+            <p class="quote-text" id="profileQuote">
+              "Saya siap memberikan dedikasi terbaik, terus belajar, dan berkembang bersama perusahaan untuk mencapai hasil yang maksimal."
+            </p>
+          </div>
+
+          <div class="personality-tags">
+            <span class="pill-chip">
+              <svg class="chip-svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8h1a4 4 0 0 1 0 8h-1"/><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/></svg>
+              <span>Coffee Addict</span>
+            </span>
+            <span class="pill-chip">
+              <svg class="chip-svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+              <span>Night Owl & Explorer</span>
+            </span>
+            <span class="pill-chip">
+              <svg class="chip-svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+              <span>Fast Learner</span>
+            </span>
+            <span class="pill-chip">
+              <svg class="chip-svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
+              <span>Target Oriented</span>
+            </span>
+            <span class="pill-chip">
+              <svg class="chip-svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+              <span>Madiun, Jawa Timur</span>
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 02: SKILL & VIBE CODING PROMINENCE -->
+    <section id="vibe-coding" class="content-section">
+      <div class="section-badge-header">
+        <span class="section-tag-num">02 / KEAHLIAN</span>
+        <h2 class="section-title">Keahlian & Kekuatan Vibe Coding</h2>
+      </div>
+
+      <!-- Vibe Coding Special Feature Banner -->
+      <div class="vibe-coding-hero-card">
+        <div class="vibe-glow-orb"></div>
+        <div class="vibe-badge-top">
+          <span class="glow-dot"></span>
+          <span>THE MODERN SUPERPOWER</span>
+        </div>
+        <h3 class="vibe-headline">
+          Vibe Coding: Mengubah Imajinasi Jadi Software Berjalan
+        </h3>
+        <p class="vibe-desc">
+          Bukan sekadar menulis kode baris demi baris, <strong>Vibe Coding</strong> adalah seni mengorkestrasi kecerdasan buatan (LLM pair-programming, prompt engineering presisi tinggi, reactive architecture) untuk melahirkan aplikasi web responsif, game ritmik, hingga otomasi video dalam hitungan jam — didukung cita rasa visual tajam hasil 12+ tahun pengalaman desain grafis.
+        </p>
+
+        <div class="vibe-perks-grid">
+          <div class="vibe-perk-item">
+            <span class="perk-icon-wrap">
+              <svg class="flat-lime-icon" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+            </span>
+            <h4>Rapid Prototyping</h4>
+            <p>Dari sketsa ide atau wireframe langsung menjadi prototype fungsional berkecepatan 10x.</p>
+          </div>
+          <div class="vibe-perk-item">
+            <span class="perk-icon-wrap">
+              <svg class="flat-lime-icon" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19l7-7 3 3-7 7-3-3z"/><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"/><path d="M2 2l7.586 7.586"/><circle cx="11" cy="11" r="2"/></svg>
+            </span>
+            <h4>Design-First Logic</h4>
+            <p>UI/UX yang tidak cuma jalan, tapi estetik, berani secara visual, dan nyaman dipakai pengguna.</p>
+          </div>
+          <div class="vibe-perk-item">
+            <span class="perk-icon-wrap">
+              <svg class="flat-lime-icon" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="10" rx="2"/><circle cx="12" cy="5" r="2"/><path d="M12 7v4"/><line x1="8" y1="16" x2="8.01" y2="16"/><line x1="16" y1="16" x2="16.01" y2="16"/></svg>
+            </span>
+            <h4>AI & Automation Stacks</h4>
+            <p>Integrasi TTS neural, forced audio alignment, automated video synthesis, dan REST API.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Skills Cards Grid -->
+      <div class="skills-filter-tabs">
+        <button class="filter-btn active" data-skill-cat="all">Semua Keahlian</button>
+        <button class="filter-btn" data-skill-cat="Tech & AI">Tech & AI</button>
+        <button class="filter-btn" data-skill-cat="Design">Desain & Visual</button>
+        <button class="filter-btn" data-skill-cat="Creative">Video & Konten</button>
+      </div>
+
+      <div class="skills-grid" id="skillsGrid">
+        <!-- Rendered dynamically -->
+      </div>
+    </section>
+
+    <!-- SECTION 03: PROYEK APLIKASI & GAME (BUATAN BERSAMAMU) -->
+    <section id="projects" class="content-section">
+      <div class="section-badge-header">
+        <div class="badge-row-between">
+          <div>
+            <span class="section-tag-num">03 / SHOWCASE PROYEK</span>
+            <h2 class="section-title">Aplikasi, Game & Otomasi</h2>
+            <p class="section-subtitle">Koleksi proyek inovatif yang telah dibuat bersama menggunakan teknik Vibe Coding.</p>
+          </div>
+          <button class="btn-pill-upload-secondary" id="btnAddNewProject">
+            + Tambah Proyek Baru
+          </button>
+        </div>
+      </div>
+
+      <!-- Project Showcase Cards -->
+      <div class="projects-grid" id="projectsGrid">
+        <!-- Dynamically injected from API -->
+      </div>
+    </section>
+
+    <!-- SECTION 04: PENGALAMAN KERJA & ORGANISASI -->
+    <section id="pengalaman" class="content-section">
+      <div class="section-badge-header">
+        <span class="section-tag-num">04 / TRACK RECORD</span>
+        <h2 class="section-title">Pengalaman Kerja & Pendidikan</h2>
+      </div>
+
+      <div class="timeline-two-col">
+        <!-- Work Experience Column -->
+        <div class="timeline-col">
+          <div class="timeline-header-pill">
+            <svg class="flat-lime-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+            <h3>Pengalaman Kerja (2010 – 2026)</h3>
+          </div>
+          <div class="timeline-track" id="experienceTimeline">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+
+        <!-- Education & Achievements Column -->
+        <div class="timeline-col">
+          <div class="timeline-header-pill">
+            <svg class="flat-lime-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c0 2 2 3 6 3s6-1 6-3v-5"/></svg>
+            <h3>Pendidikan & Organisasi</h3>
+          </div>
+
+          <!-- Education Track -->
+          <div class="education-block">
+            <h4 class="sub-col-title">Riwayat Pendidikan</h4>
+            <div class="education-list" id="educationList">
+              <!-- Dynamically populated -->
+            </div>
+          </div>
+
+          <!-- Organizations & Prestasi -->
+          <div class="organizations-block">
+            <h4 class="sub-col-title">Organisasi & Nilai Prestasi</h4>
+            <div class="org-list" id="organizationsList">
+              <!-- Dynamically populated -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 05: GALERI PORTOFOLIO & UPLOAD -->
+    <section id="galeri" class="content-section">
+      <div class="section-badge-header">
+        <div class="badge-row-between">
+          <div>
+            <span class="section-tag-num">05 / ARSIP KARYA</span>
+            <h2 class="section-title">Galeri Portofolio</h2>
+            <p class="section-subtitle">Kumpulan hasil karya desain grafis, visual kinetik, dan aset kreatif pilihan.</p>
+          </div>
+          <button class="btn-pill-upload" id="openUploadGalleryBtn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            <span>Upload ke Galeri</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Gallery Filter Tabs -->
+      <div class="gallery-filter-bar">
+        <button class="gal-filter-btn active" data-filter="all">Semua Karya</button>
+        <button class="gal-filter-btn" data-filter="Logo & Brand">Logo &amp; Brand</button>
+        <button class="gal-filter-btn" data-filter="Packaging">Packaging</button>
+        <button class="gal-filter-btn" data-filter="Layout & Cetak">Layout &amp; Cetak</button>
+        <button class="gal-filter-btn" data-filter="Ilustrasi Digital">Ilustrasi Digital</button>
+        <button class="gal-filter-btn" data-filter="Social Media">Social Media</button>
+      </div>
+
+      <!-- Gallery Grid -->
+      <div class="gallery-grid" id="galleryGrid">
+        <!-- Rendered dynamically -->
+      </div>
+
+      <!-- Load More Button -->
+      <div class="gallery-load-more-wrap" id="galleryLoadMoreWrap" style="text-align: center; margin-top: 36px; display: none;">
+        <button type="button" class="btn-proj-primary" id="btnLoadMoreGallery" style="padding: 12px 28px; font-size: 0.88rem; display: inline-flex; align-items: center; gap: 8px;">
+          <span>Muat Lebih Banyak Karya</span>
+          <span id="galleryCounterBadge" style="background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 12px; font-size: 0.75rem;"></span>
+        </button>
+      </div>
+    </section>
+
+    <!-- SECTION 06: HUBUNGI SAYA / FOOTER CTA -->
+    <section id="kontak" class="cta-banner-section">
+      <div class="cta-inner-card">
+        <span class="cta-eyebrow">SIAP BERKOLABORASI?</span>
+        <h2 class="cta-headline">
+          Mari Wujudkan Ide Kreatif & Vibe Coding Berikutnya Bersama Saya.
+        </h2>
+        <p class="cta-desc">
+          Terbuka untuk posisi Content Creator, Desainer Grafis, Prototyper Vibe Coding, Host Live Streaming, maupun proyek kolaborasi freelance.
+        </p>
+
+        <div class="cta-button-row">
+          <a href="https://wa.me/6285735851739" target="_blank" class="btn-cta-lime">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981z"/></svg>
+            <span>Hubungi via WhatsApp (+62 857-3585-1739)</span>
+          </a>
+          <a href="mailto:hamdan.luthansa@gmail.com" class="btn-cta-ghost">
+            <span>Kirim Email</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer-wrap">
+    <div class="footer-content">
+      <div class="footer-left">
+        <p class="copyright">© 2026 Tri Hamdani — Madiun, Indonesia. Powered by Vibe Coding.</p>
+      </div>
+      <div class="footer-right">
+        <a href="#hero" class="back-to-top">Kembali ke Atas ↑</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ================= MODALS ================= -->
+
+  <!-- 1. Quick Upload Portfolio Modal -->
+  <div class="vibe-modal-backdrop" id="uploadModal" style="display: none;">
+    <div class="vibe-modal-card">
+      <div class="modal-header">
+        <div class="modal-title-wrap">
+          <span class="badge-mini">UPLOAD PORTOFOLIO</span>
+          <h3 class="modal-title">Unggah Karya atau Proyek Baru</h3>
+        </div>
+        <button class="modal-close-btn" id="closeUploadModalBtn">&times;</button>
+      </div>
+
+      <form id="quickUploadForm" class="modal-form">
+        <div class="dropzone-area" id="dropzoneBox">
+          <input type="file" id="portfolioFileInput" name="file" accept="image/*,video/*" class="file-hidden-input">
+          <div class="dropzone-prompt" id="dropzonePrompt">
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#b8ff36" stroke-width="1.8"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            <p class="drop-text-main">Klik atau Seret file gambar / video ke sini</p>
+            <p class="drop-text-sub">Mendukung JPG, PNG, WEBP, GIF, MP4 (Maks. 100MB)</p>
+          </div>
+          <div class="dropzone-preview" id="dropzonePreview" style="display: none;">
+            <img src="" id="uploadPreviewImg" alt="Preview">
+            <span class="preview-filename" id="previewFilename">filename.png</span>
+            <button type="button" class="btn-clear-preview" id="clearFileBtn">Ganti File</button>
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group flex-1">
+            <label>Judul Karya / Proyek *</label>
+            <input type="text" id="uploadTitle" name="title" class="form-input" placeholder="Misal: Redesign Identitas Madiun Kinetik" required>
+          </div>
+          <div class="form-group flex-1">
+            <label>Kategori *</label>
+            <select id="uploadCategory" name="category" class="form-input">
+              <option value="Desain Grafis">Desain Grafis</option>
+              <option value="Motion & Video">Motion & Video</option>
+              <option value="Vibe Coding & Web App">Vibe Coding & Web App</option>
+              <option value="Game & Interactive App">Game & Interactive App</option>
+              <option value="Content Creation">Content Creation</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label>Deskripsi Singkat</label>
+          <textarea id="uploadDesc" name="desc" class="form-input" rows="3" placeholder="Ceritakan proses pembuatan, konsep desain, atau latar belakang proyek ini..."></textarea>
+        </div>
+
+        <div class="form-check-group">
+          <label class="check-container">
+            <input type="checkbox" id="uploadIsProject" name="isProject" value="true">
+            <span class="checkmark"></span>
+            <span class="check-label">Tampilkan juga sebagai kartu unggulan di bagian <strong>Proyek Kolaborasi</strong></span>
+          </label>
+        </div>
+
+        <div class="form-row" id="projectExtraFields" style="display: none;">
+          <div class="form-group flex-1">
+            <label>Teknologi / Tools Digunakan</label>
+            <input type="text" id="uploadTech" name="tech" class="form-input" placeholder="Misal: Photoshop, Illustrator, Vibe Coding, Node.js">
+          </div>
+          <div class="form-group flex-1">
+            <label>Link Live Demo / URL Proyek (Opsional)</label>
+            <input type="text" id="uploadLiveUrl" name="liveUrl" class="form-input" placeholder="https://... atau #">
+          </div>
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="btn-cancel" id="cancelUploadBtn">Batal</button>
+          <button type="submit" class="btn-submit-lime" id="submitUploadBtn">
+            <span>Simpan & Terbitkan</span>
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- 2. Project Detail / Interactive Demo Modal -->
+  <div class="vibe-modal-backdrop" id="projectModal" style="display: none;">
+    <div class="vibe-modal-card modal-large">
+      <div class="modal-header">
+        <div class="modal-title-wrap">
+          <span class="badge-mini" id="modalProjTag">PROYEK SHOWCASE</span>
+          <h3 class="modal-title" id="modalProjTitle">Judul Proyek</h3>
+        </div>
+        <button class="modal-close-btn" id="closeProjectModalBtn">&times;</button>
+      </div>
+
+      <div class="project-modal-body">
+        <!-- Media Area: Video Player or Image or Iframe Demo -->
+        <div class="project-media-container" id="modalMediaContainer">
+          <!-- Injected dynamically -->
+        </div>
+
+        <div class="project-info-container">
+          <div class="project-tech-pills" id="modalProjTech">
+            <!-- Tech badges -->
+          </div>
+          <p class="project-full-desc" id="modalProjDesc">Deskripsi proyek...</p>
+          
+          <div class="project-modal-links" id="modalProjLinks">
+            <!-- Dynamic button links -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <!-- Toast Notification -->
+  <div class="vibe-toast" id="vibeToast" style="display: none;">
+    <span class="toast-icon">✓</span>
+    <span class="toast-msg" id="toastMessage">Berhasil!</span>
+  </div>
+
+  <script src="bg-canvas.js" defer></script>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/portfolio-thumbs/:folder/:file",
+      "destination": "/cache/thumbs/:folder/:file.webp"
+    },
+    {
+      "source": "/portfolio-assets/:folder/:file",
+      "destination": "/cache/thumbs/:folder/:file.webp"
+    },
+    {
+      "source": "/api/data",
+      "destination": "/api/data"
+    }
+  ]
+}
