@@ -7,9 +7,56 @@ const multer = require('multer');
 const app = express();
 const PORT = process.env.PORT || 3300;
 
+// Security Defense 1: Disable fingerprinting
+app.disable('x-powered-by');
+
+// Security Defense 2: HTTP Security Headers
+app.use((req, res, next) => {
+  res.setHeader('X-Frame-Options', 'DENY');
+  res.setHeader('X-Content-Type-Options', 'nosniff');
+  res.setHeader('X-XSS-Protection', '1; mode=block');
+  res.setHeader('Referrer-Policy', 'strict-origin-when-cross-origin');
+  res.setHeader('Permissions-Policy', 'camera=(), microphone=(), geolocation=()');
+  next();
+});
+
+// Security Defense 3: Rate Limiting (Anti-DoS & Anti-Bruteforce)
+const rateLimitMap = new Map();
+const RATE_LIMIT_WINDOW = 60 * 1000; // 1 menit
+const MAX_REQUESTS = 250; // max 250 request per menit per IP
+
+app.use((req, res, next) => {
+  const ip = req.headers['x-forwarded-for'] || req.socket.remoteAddress || '127.0.0.1';
+  const now = Date.now();
+  let record = rateLimitMap.get(ip);
+  if (!record || now - record.start > RATE_LIMIT_WINDOW) {
+    record = { count: 1, start: now };
+    rateLimitMap.set(ip, record);
+  } else {
+    record.count++;
+  }
+  if (record.count > MAX_REQUESTS) {
+    return res.status(429).json({
+      error: 'Too Many Requests',
+      message: 'Aktivitas tidak wajar terdeteksi. Silakan coba kembali dalam 1 menit.'
+    });
+  }
+  next();
+});
+
+// Bersihkan memori rate limiter setiap 5 menit
+setInterval(() => {
+  const now = Date.now();
+  for (const [ip, record] of rateLimitMap.entries()) {
+    if (now - record.start > RATE_LIMIT_WINDOW) {
+      rateLimitMap.delete(ip);
+    }
+  }
+}, 5 * 60 * 1000);
+
 app.use(cors());
-app.use(express.json({ limit: '50mb' }));
-app.use(express.urlencoded({ extended: true, limit: '50mb' }));
+app.use(express.json({ limit: '20mb' }));
+app.use(express.urlencoded({ extended: true, limit: '20mb' }));
 
 // Directories
 const DATA_FILE = path.join(__dirname, 'data', 'portfolio.json');
@@ -19,13 +66,19 @@ if (!fs.existsSync(UPLOAD_DIR)) {
   fs.mkdirSync(UPLOAD_DIR, { recursive: true });
 }
 
-// Multer storage
+// Security Defense 4: Whitelist File Upload & Sanitize Filenames
+const ALLOWED_EXTS = new Set(['.jpg', '.jpeg', '.png', '.webp', '.gif', '.svg', '.mp4', '.pdf']);
+const ALLOWED_MIMES = new Set([
+  'image/jpeg', 'image/png', 'image/webp', 'image/gif', 'image/svg+xml',
+  'video/mp4', 'application/pdf'
+]);
+
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
     cb(null, UPLOAD_DIR);
   },
   filename: function (req, file, cb) {
-    const ext = path.extname(file.originalname);
+    const ext = path.extname(file.originalname).toLowerCase();
     const safeName = path.basename(file.originalname, ext).replace(/[^a-zA-Z0-9_-]/g, '_');
     cb(null, `${Date.now()}_${safeName}${ext}`);
   }
@@ -33,7 +86,15 @@ const storage = multer.diskStorage({
 
 const upload = multer({
   storage: storage,
-  limits: { fileSize: 100 * 1024 * 1024 } // 100MB max
+  limits: { fileSize: 25 * 1024 * 1024 }, // 25MB max per file
+  fileFilter: (req, file, cb) => {
+    const ext = path.extname(file.originalname).toLowerCase();
+    if (ALLOWED_EXTS.has(ext) && ALLOWED_MIMES.has(file.mimetype)) {
+      cb(null, true);
+    } else {
+      cb(new Error('Tipe file ditolak! Hanya gambar (JPG, PNG, WebP, SVG), Video MP4, atau PDF.'));
+    }
+  }
 });
 
 // Helper to read and write data safely
@@ -69,11 +130,25 @@ if (!fs.existsSync(THUMB_CACHE_DIR)) {
   fs.mkdirSync(THUMB_CACHE_DIR, { recursive: true });
 }
 
+// Security Defense 5: Anti-Path Traversal Check
+function isSafePathSegment(segment) {
+  if (!segment || typeof segment !== 'string') return false;
+  if (segment.includes('\0') || segment.includes('..') || segment.includes('/') || segment.includes('\\')) {
+    return false;
+  }
+  return true;
+}
+
 // 1. High-performance thumbnail route (Always active, serves cached WebP from public/cache/thumbs)
 app.get('/portfolio-thumbs/:folder/:filename', async (req, res) => {
   try {
     const folder = decodeURIComponent(req.params.folder);
     const rawFilename = decodeURIComponent(req.params.filename);
+
+    if (!isSafePathSegment(folder) || !isSafePathSegment(rawFilename)) {
+      return res.status(400).send('Bad Request: Invalid path parameters');
+    }
+
     const filenameWebp = rawFilename.endsWith('.webp') ? rawFilename : rawFilename + '.webp';
     const cachedFile = path.join(THUMB_CACHE_DIR, folder, filenameWebp);
 
@@ -114,6 +189,10 @@ app.get('/portfolio-assets/:folder/:filename', (req, res) => {
   try {
     const folder = decodeURIComponent(req.params.folder);
     const rawFilename = decodeURIComponent(req.params.filename);
+
+    if (!isSafePathSegment(folder) || !isSafePathSegment(rawFilename)) {
+      return res.status(400).send('Bad Request: Invalid path parameters');
+    }
 
     if (fs.existsSync(PORTFOLIO_EXTERNAL_DIR)) {
       const srcFile = path.join(PORTFOLIO_EXTERNAL_DIR, folder, rawFilename);
