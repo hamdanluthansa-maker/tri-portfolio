@@ -165,6 +165,26 @@
   ],
   "projects": [
     {
+      "id": "proj-nebengkirim",
+      "title": "NebengKirim — Forum Komunitas Tebengan & Titip Barang Kilat (Jawa - Bali)",
+      "category": "Web App & Logistik Komunitas",
+      "badge": "Real-Time Cloud & PWA",
+      "tag": "CARPOOL & SAME-DAY LOGISTIK",
+      "tech": [
+        "React 19",
+        "Cloud Firestore",
+        "PWA Mobile First",
+        "PIN Security System",
+        "Real-Time Sync",
+        "Tailwind CSS"
+      ],
+      "image": "/assets/projects/nebengkirim_mockup.jpg",
+      "liveUrl": "#",
+      "summary": "Platform forum komunitas perjalanan antar-kota Jawa & Bali yang menghubungkan pengendara dengan kursi kosong dan penitipan barang kilat (same-day) secara bebas komisi.",
+      "details": "Platform komunitas yang menghubungkan siapa pun yang bepergian antar-kota di Jawa & Bali dengan mereka yang butuh tumpangan penumpang (kursi kosong/carpool) atau kirim barang mendesak secara kilat (same-day). Dilengkapi fitur sinkronisasi instan via Cloud Firestore, sortir by tanggal keberangkatan, pencarian kota asal-tujuan cepat tanpa scroll panjang, kelola postingan aman dengan proteksi PIN, serta kebijakan bebas komisi (Rp 0 atau patungan bensin sukarela).",
+      "featured": true
+    },
+    {
       "id": "proj-poscloud",
       "title": "POSCloud (VapePOS) — Multiplatform POS & Kasir System",
       "category": "App & Web Kasir",
