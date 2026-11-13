@@ -179,7 +179,7 @@
         "Tailwind CSS"
       ],
       "image": "/assets/projects/nebengkirim_mockup.jpg",
-      "liveUrl": "#",
+      "liveUrl": "https://nebeng-kirim.vercel.app/",
       "summary": "Platform forum komunitas perjalanan antar-kota Jawa & Bali yang menghubungkan pengendara dengan kursi kosong dan penitipan barang kilat (same-day) secara bebas komisi.",
       "details": "Platform komunitas yang menghubungkan siapa pun yang bepergian antar-kota di Jawa & Bali dengan mereka yang butuh tumpangan penumpang (kursi kosong/carpool) atau kirim barang mendesak secara kilat (same-day). Dilengkapi fitur sinkronisasi instan via Cloud Firestore, sortir by tanggal keberangkatan, pencarian kota asal-tujuan cepat tanpa scroll panjang, kelola postingan aman dengan proteksi PIN, serta kebijakan bebas komisi (Rp 0 atau patungan bensin sukarela).",
       "featured": true
@@ -218,7 +218,7 @@
         "Multi-Role Dashboard"
       ],
       "image": "/assets/projects/setoranngaji_device_mockup.jpg",
-      "liveUrl": "#",
+      "liveUrl": "https://setoranngaji.vercel.app/",
       "summary": "Sistem pencatatan dan evaluasi setoran hafalan Quran digital dengan perekam audio bacaan, dashboard guru/wali murid, rekap tajwid, dan mushaf interaktif.",
       "details": "Menyediakan 4 peran akses (Murid, Guru, Admin, Superadmin). Memungkinkan santri mengunggah rekaman bacaan surah, mendapatkan evaluasi tajwid langsung dari ustadz, serta memantau grafik perkembangan juz secara berkala.",
       "featured": true
@@ -274,7 +274,7 @@
         "Filter Karesidenan Madiun"
       ],
       "image": "/assets/projects/karmadi_mockup.jpg",
-      "liveUrl": "#",
+      "liveUrl": "https://karmadi.vercel.app/",
       "summary": "Pusat info loker terpercaya, terlengkap, dan terupdate untuk wilayah Madiun, Magetan, Ngawi, Ponorogo, dan sekitarnya.",
       "details": "Platform pencarian lowongan kerja khusus seputar Karesidenan Madiun. Membantu para pencari kerja menemukan info lowongan terpercaya dari berbagai sektor industri dan usaha lokal.",
       "featured": true
