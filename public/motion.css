@@ -1,0 +1,309 @@
+/* =========================================================
+   MOTION LAYER — Tri Hamdani Portfolio
+   1. Hero kinetic entrance + sparkle/pulse
+   2. Kinetic typography marquee
+   3. 3D tilt + lime spotlight cards
+   4. Scroll stagger reveal + animated timeline
+   5. Vibe Terminal micro-widget
+   All animations are disabled under prefers-reduced-motion.
+   ========================================================= */
+
+/* Prevent full-bleed/rotated marquee from causing horizontal scroll */
+html, body { overflow-x: clip; }
+
+/* ---------- 1. HERO KINETIC ENTRANCE ---------- */
+@keyframes mxRiseIn {
+  from { opacity: 0; translate: 0 28px; filter: blur(6px); }
+  to   { opacity: 1; translate: 0 0;    filter: blur(0); }
+}
+
+@keyframes mxHighlightSweep {
+  0%   { clip-path: inset(0 100% 0 0); }
+  100% { clip-path: inset(0 0 0 0); }
+}
+
+@keyframes mxShine {
+  0%   { left: -60%; }
+  60%, 100% { left: 130%; }
+}
+
+@keyframes mxSpin {
+  to { rotate: 360deg; }
+}
+
+@keyframes mxPulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(184, 255, 54, 0.6); }
+  50%      { box-shadow: 0 0 0 7px rgba(184, 255, 54, 0); }
+}
+
+.hero-left-column > *,
+.hero-right-column > * {
+  animation: mxRiseIn 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+.hero-left-column > *:nth-child(1)  { animation-delay: 0.05s; }
+.hero-left-column > *:nth-child(2)  { animation-delay: 0.15s; }
+.hero-left-column > *:nth-child(3)  { animation-delay: 0.28s; }
+.hero-left-column > *:nth-child(4)  { animation-delay: 0.40s; }
+.hero-left-column > *:nth-child(5)  { animation-delay: 0.52s; }
+.hero-right-column > *:nth-child(1) { animation-delay: 0.30s; }
+.hero-right-column > *:nth-child(2) { animation-delay: 0.45s; }
+.hero-right-column > *:nth-child(3) { animation-delay: 0.60s; }
+.hero-right-column > *:nth-child(4) { animation-delay: 0.75s; }
+
+.lime-highlight-box {
+  position: relative;
+  overflow: hidden;
+  animation: mxHighlightSweep 0.9s cubic-bezier(0.7, 0, 0.2, 1) 0.55s both;
+}
+.lime-highlight-box::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -60%;
+  width: 40%;
+  height: 100%;
+  background: linear-gradient(100deg, transparent, rgba(255, 255, 255, 0.55), transparent);
+  transform: skewX(-20deg);
+  animation: mxShine 4.5s ease-in-out 1.6s infinite;
+  pointer-events: none;
+}
+
+.sparkle-star {
+  display: inline-block;
+  animation: mxSpin 9s linear infinite;
+}
+
+.pulse-lime {
+  animation: mxPulse 2s ease-out infinite;
+}
+
+/* Cyber-decrypt glyph color */
+.mx-glyph {
+  color: var(--lime-primary);
+  text-shadow: 0 0 8px rgba(184, 255, 54, 0.7);
+}
+
+.metric-huge-number {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- 2. KINETIC MARQUEE ---------- */
+@keyframes mxMarquee {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+.mx-marquee {
+  position: relative;
+  z-index: 2;
+  margin: 36px calc(50% - 50vw) 8px;
+  width: 100vw;
+  overflow: hidden;
+  border-top: 1px solid rgba(184, 255, 54, 0.22);
+  border-bottom: 1px solid rgba(184, 255, 54, 0.22);
+  background: rgba(9, 14, 11, 0.72);
+  backdrop-filter: blur(4px);
+  rotate: -1.2deg;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+          mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+}
+
+.mx-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: mxMarquee 32s linear infinite;
+}
+
+.mx-marquee:hover .mx-marquee-track {
+  animation-play-state: paused;
+}
+
+.mx-marquee-group {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.mx-marquee-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 22px;
+  padding: 14px 22px 14px 0;
+  font-family: var(--font-heading, inherit);
+  font-size: clamp(1rem, 2.2vw, 1.45rem);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--text-main);
+}
+
+.mx-marquee-item.is-outline {
+  color: transparent;
+  -webkit-text-stroke: 1px rgba(184, 255, 54, 0.75);
+}
+
+.mx-marquee-star {
+  color: var(--lime-primary);
+  text-shadow: 0 0 10px var(--lime-primary);
+  font-size: 0.9em;
+}
+
+/* ---------- 3. 3D TILT + SPOTLIGHT ---------- */
+.project-card,
+.skill-card {
+  position: relative;
+  transform-style: preserve-3d;
+  will-change: transform;
+}
+
+.project-card::after,
+.skill-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: radial-gradient(
+    420px circle at var(--mx-x, 50%) var(--mx-y, 50%),
+    rgba(184, 255, 54, 0.16),
+    transparent 45%
+  );
+  opacity: 0;
+  transition: opacity 0.35s ease;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.project-card.is-tilting,
+.skill-card.is-tilting {
+  transform: perspective(900px) rotateX(var(--mx-rx, 0deg)) rotateY(var(--mx-ry, 0deg)) translateY(-4px);
+  transition: transform 0.12s ease-out, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card.is-tilting::after,
+.skill-card.is-tilting::after {
+  opacity: 1;
+}
+
+@media (hover: none) {
+  .project-card:active,
+  .skill-card:active,
+  .gallery-card:active {
+    transform: scale(0.98);
+    transition: transform 0.15s ease;
+  }
+}
+
+/* ---------- 4. SCROLL STAGGER REVEAL ---------- */
+.mx-on .mx-reveal {
+  opacity: 0;
+  translate: 0 36px;
+  transition:
+    opacity 0.75s cubic-bezier(0.2, 0.8, 0.2, 1) var(--mx-delay, 0s),
+    translate 0.75s cubic-bezier(0.2, 0.8, 0.2, 1) var(--mx-delay, 0s);
+}
+
+.mx-on .mx-reveal.is-visible {
+  opacity: 1;
+  translate: 0 0;
+}
+
+/* Animated timeline progress line */
+.timeline-track::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -2px;
+  width: 2px;
+  height: calc(var(--mx-progress, 0) * 100%);
+  background: linear-gradient(180deg, var(--lime-primary), rgba(184, 255, 54, 0.4));
+  box-shadow: 0 0 10px var(--lime-primary);
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+.timeline-item::before {
+  transition: transform 0.4s ease, opacity 0.4s ease;
+}
+.mx-on .timeline-item:not(.is-lit)::before {
+  transform: scale(0.5);
+  opacity: 0.35;
+  box-shadow: none;
+}
+
+/* ---------- 5. VIBE TERMINAL ---------- */
+.mx-terminal {
+  width: 100%;
+  border: 1px solid rgba(184, 255, 54, 0.28);
+  border-radius: 12px;
+  background: rgba(7, 11, 9, 0.88);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.55), inset 0 0 24px rgba(184, 255, 54, 0.04);
+  overflow: hidden;
+  font-family: var(--font-mono, ui-monospace, 'SFMono-Regular', Consolas, monospace);
+}
+
+.mx-terminal-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 12px;
+  border-bottom: 1px solid rgba(184, 255, 54, 0.14);
+  background: rgba(18, 30, 22, 0.7);
+}
+
+.mx-terminal-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: #2a3a2f;
+}
+.mx-terminal-dot:nth-child(1) { background: #ff5f57; }
+.mx-terminal-dot:nth-child(2) { background: #febc2e; }
+.mx-terminal-dot:nth-child(3) { background: var(--lime-primary); }
+
+.mx-terminal-title {
+  margin-left: 8px;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+}
+
+.mx-terminal-body {
+  min-height: 112px;
+  padding: 12px 14px;
+  font-size: 0.74rem;
+  line-height: 1.7;
+  color: #cfe8d6;
+}
+
+.mx-term-line { white-space: pre-wrap; word-break: break-word; }
+.mx-term-line.is-cmd  { color: var(--text-main); }
+.mx-term-line.is-info { color: var(--text-muted); }
+.mx-term-line.is-ok   { color: var(--lime-primary); }
+
+@keyframes mxBlink { 50% { opacity: 0; } }
+.mx-caret {
+  display: inline-block;
+  width: 7px;
+  height: 1em;
+  margin-left: 2px;
+  vertical-align: -2px;
+  background: var(--lime-primary);
+  animation: mxBlink 1s steps(1) infinite;
+}
+
+@media (max-width: 820px) {
+  .mx-marquee { margin-top: 24px; rotate: -0.8deg; }
+  .mx-terminal-body { min-height: 104px; font-size: 0.7rem; }
+}
+
+/* ---------- REDUCED MOTION ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+  .mx-marquee-track { animation: none !important; }
+  .mx-on .mx-reveal { opacity: 1; translate: none; }
+}
