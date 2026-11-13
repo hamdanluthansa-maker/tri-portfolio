@@ -528,7 +528,58 @@ window.openProjectModal = function(projId) {
   // Media Area: Check if Video, Interactive Live Demo, or Image
   const mediaContainer = document.getElementById('modalMediaContainer');
   if (mediaContainer) {
-    if (proj.videoUrl) {
+    if (proj.slides && Array.isArray(proj.slides) && proj.slides.length > 0) {
+      let currentSlide = 0;
+      const slides = proj.slides;
+      const thumbsHtml = slides.map((s, idx) => `
+        <button type="button" class="proj-carousel-thumb ${idx === 0 ? 'active' : ''}" data-slide-idx="${idx}" title="${escapeHtml(s.label || '')}">
+          <img src="${escapeHtml(s.src)}" alt="${escapeHtml(s.label || proj.title)}">
+        </button>
+      `).join('');
+
+      mediaContainer.innerHTML = `
+        <div class="proj-carousel">
+          <div class="proj-carousel-stage">
+            <button type="button" class="proj-carousel-nav prev" id="projCarouselPrev" aria-label="Slide sebelumnya">&#8249;</button>
+            <img src="${escapeHtml(slides[0].src)}" alt="${escapeHtml(slides[0].label || proj.title)}" class="proj-carousel-img" id="projCarouselImg">
+            <button type="button" class="proj-carousel-nav next" id="projCarouselNext" aria-label="Slide berikutnya">&#8250;</button>
+          </div>
+          <div class="proj-carousel-caption-bar">
+            <span class="proj-carousel-caption" id="projCarouselCaption">${escapeHtml(slides[0].label || '')}</span>
+            <span class="proj-carousel-counter" id="projCarouselCounter">1 / ${slides.length}</span>
+          </div>
+          <div class="proj-carousel-thumbs" id="projCarouselThumbs">${thumbsHtml}</div>
+        </div>
+      `;
+
+      const imgEl = document.getElementById('projCarouselImg');
+      const capEl = document.getElementById('projCarouselCaption');
+      const cntEl = document.getElementById('projCarouselCounter');
+      const thumbEls = mediaContainer.querySelectorAll('.proj-carousel-thumb');
+
+      const goToSlide = (idx) => {
+        currentSlide = (idx + slides.length) % slides.length;
+        const active = slides[currentSlide];
+        if (imgEl) {
+          imgEl.src = active.src;
+          imgEl.alt = active.label || proj.title;
+        }
+        if (capEl) capEl.textContent = active.label || '';
+        if (cntEl) cntEl.textContent = `${currentSlide + 1} / ${slides.length}`;
+        thumbEls.forEach((btn, i) => btn.classList.toggle('active', i === currentSlide));
+      };
+
+      const prevBtn = document.getElementById('projCarouselPrev');
+      const nextBtn = document.getElementById('projCarouselNext');
+      if (prevBtn) prevBtn.addEventListener('click', () => goToSlide(currentSlide - 1));
+      if (nextBtn) nextBtn.addEventListener('click', () => goToSlide(currentSlide + 1));
+      thumbEls.forEach(btn => {
+        btn.addEventListener('click', () => {
+          const idx = parseInt(btn.getAttribute('data-slide-idx'), 10);
+          if (!isNaN(idx)) goToSlide(idx);
+        });
+      });
+    } else if (proj.videoUrl) {
       mediaContainer.innerHTML = `
         <video controls autoplay muted loop style="max-height:460px;width:100%;">
           <source src="${escapeHtml(proj.videoUrl)}" type="video/mp4">
